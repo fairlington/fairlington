@@ -1,0 +1,16 @@
+{{- $alt := .Get "alt" -}}
+{{- $class := .Get "class" -}}
+
+{{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ with $original }}
+
+<img 
+    src="{{ $original.RelPermalink }}"
+    class="{{ if $class }}{{ $class }}{{ end }}"
+    width="{{ $original.Width }}"
+    height="{{ $original.Height }}"
+    alt="{{ if $alt }}{{ $alt }}{{ end }}"
+    loading="lazy"
+>
+
+{{ end }}

@@ -1,0 +1,36 @@
+baseURL: https://fairlingtonhistoricalsociety.pages.dev/
+languageCode: en-us
+title: Fairlington Historical Society
+theme: 
+- hugo-book
+buildFuture: true
+
+timeout: 300000
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  BookTheme: auto
+#  BookLogo: favicon.png
+#  description: A peaceful world starts here.
+#  images: ["share/school.jpg"]
+#  twitter: "@AbingdonPTA"
+#  fb: AbingdonElementaryPTA
+  title: Fairlington Historical Society
+  BookSection: '*'
+  booktoc: false
+
+permalinks:
+  about: /:sections[1:]/:filename/
+  posts: /:year/:month/:day/:slug/
+
+copyright: Abingdon PTA
+defaultContentLanguage: en
+languages:
+  en:
+    weight: 1
+    languageName: English
+    title: Abingdon PTA
