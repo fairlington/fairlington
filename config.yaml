@@ -17,8 +17,8 @@ params:
 #  BookLogo: favicon.png
 #  description: A peaceful world starts here.
 #  images: ["share/school.jpg"]
-#  twitter: "@AbingdonPTA"
-#  fb: AbingdonElementaryPTA
+#  twitter: "@FairlingtonHistoricalSociety"
+#  fb: FairlingtonHistoricalSociety
   title: Fairlington Historical Society
   BookSection: '*'
   booktoc: false
@@ -27,10 +27,10 @@ permalinks:
   about: /:sections[1:]/:filename/
   posts: /:year/:month/:day/:slug/
 
-copyright: Abingdon PTA
+copyright: Fairlington Historical Society
 defaultContentLanguage: en
 languages:
   en:
     weight: 1
     languageName: English
-    title: Abingdon PTA
+    title: Fairlington Historical Society
