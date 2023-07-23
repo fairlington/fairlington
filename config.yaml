@@ -15,8 +15,8 @@ markup:
 params:
   BookTheme: auto
 #  BookLogo: favicon.png
-#  description: A peaceful world starts here.
-#  images: ["share/school.jpg"]
+  description: Fairlington Historical Society
+  images: ["share/share.jpg"]
 #  twitter: "@FairlingtonHistoricalSociety"
 #  fb: FairlingtonHistoricalSociety
   title: Fairlington Historical Society
