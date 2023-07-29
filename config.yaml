@@ -14,7 +14,7 @@ markup:
 
 params:
   BookTheme: auto
-#  BookLogo: favicon.png
+  BookLogo: favicon.png
   description: Fairlington Historical Society
   images: ["share/share.jpg"]
 #  twitter: "@FairlingtonHistoricalSociety"

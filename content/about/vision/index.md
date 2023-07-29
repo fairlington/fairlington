@@ -11,7 +11,7 @@ The Fairlington Historical Society’s vision is:
 - To promote the continuing quality and vitality of community life.
 - To build and manage the resources necessary to represent the interests of the Fairlington community in historical and historic preservation organizations.
 
-{{< imagefull src="images/IMG_0103.jpg" >}}
+{{< imagefull src="files/IMG_0103.jpg" >}}
 
 The Fairlington Historical Society seeks to:
 
@@ -20,4 +20,4 @@ The Fairlington Historical Society seeks to:
 - **Provide** – Awareness and education for the community on Fairlington’s history and on the value and methods of historic preservation; assistance and guidance for the Fairlington condominium villages and other Fairlington associations on matters of historical preservation.
 - **Promote** – Participation of all Fairlington residents, past and current, and other interested parties in the life of a vital and cohesive community.
 
-{{< imagefull src="images/Ch-4_2.jpg" >}}
+{{< imagefull src="files/Ch-4_2.jpg" >}}

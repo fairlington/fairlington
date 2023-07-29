@@ -2,7 +2,7 @@
 title: July Fourth Parade
 summary: July Fourth Parade
 linktitle: July Fourth Parade
-weight: 10
+weight: 30
 ---
 
 Fairlington has long celebrated the Fourth of July with a parade and  after-party. Evolving and growing each year, this event brings the  entire community together in an always memorable neighborhood event.

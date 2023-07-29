@@ -16,4 +16,4 @@ the law.
 
 All FHS projects and activities are organized and undertaken by volunteers. Contact Us to volunteer.
 
-{{< imagefull src="images/Historic-Marker-Ceremony-1999.jpg" >}}
+{{< imagefull src="files/Historic-Marker-Ceremony-1999.jpg" >}}

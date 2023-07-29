@@ -5,8 +5,11 @@ title: Fairlington Historical Society
 
 <style>
 hr { display: none; }
+h1 { display: none; }
 .title, .textcenter { text-align: center; }
 </style>
+
+<img src="home/cropped-Fairlington-Header-Logo.png" class="imagecenter" >
 
 <script>
     var images = ["carousel/2005_Architecture_2_Edited-840x442.jpg", "carousel/2005_Slide96-1059x557.jpg", "carousel/FRL_Banner_Resized_0002_Ch-3_9.jpg", "carousel/FRL_Banner_Resized_0003_Ch-2_7.jpg", "carousel/FRL_Banner_Resized_0004_Ch-2_6.jpg"];
