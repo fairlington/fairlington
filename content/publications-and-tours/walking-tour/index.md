@@ -5,7 +5,7 @@ linktitle: Walking Tour
 weight: 30
 ---
 
-Download the [walking tour brochure](files/14559-Fairlington-Walking-tour-broch-v6.pdf).
+{{< button href="files/14559-Fairlington-Walking-tour-broch-v6.pdf" >}}Download the Walking Tour Brochure here{{< /button >}}
 
 **1. Historic Markers**  
 “*Following historic designation, the Historical Society designed and installed a variety of historic markers throughout Fairlington. In addition to the combined National Register and Virginia Landmarks plaque installed on South Abingdon Street between Fairlington Villages office and the Community Center, oval plaques were placed on the brick entrance walls.*” (p. 95)

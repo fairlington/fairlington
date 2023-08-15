@@ -24,8 +24,8 @@ params:
   booktoc: false
 
 permalinks:
-  about: /:sections[1:]/:filename/
-  posts: /:year/:month/:day/:slug/
+  about: /:sections[1:]/:slug/
+  posts: /:year/:month/:slug/
 
 copyright: Fairlington Historical Society
 defaultContentLanguage: en

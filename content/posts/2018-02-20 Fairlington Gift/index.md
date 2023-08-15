@@ -5,7 +5,7 @@ slug: gift
 date: 2018-02-20T07:00:00-05:00
 ---
 
-{{< imagefull src="files/book-cover-mockup-12-07-1-300x236.jpg" >}}
+{{< image src="files/book-cover-mockup-12-07-1-300x236.jpg" >}}
 
 The Fairlington Historical Society’s Fairlington at Fifty: May 1943–May 1993 – the definitive history of our community – is available for $20 plus $5.00 for postage and handling.
 

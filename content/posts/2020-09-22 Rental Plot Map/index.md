@@ -5,7 +5,7 @@ slug: rental plot map
 date: 2020-09-22T07:00:00-05:00
 ---
 
-{{< imagefull src="files/map-1-300x173.jpg" >}}
+{{< image src="files/map-1-300x173.jpg" >}}
 
 This early map of Fairlington was last used by the Fairmac Corporation during the community’s years as rental property from 1947 to 1972.
 
