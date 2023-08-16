@@ -16,10 +16,12 @@ In the decades before Fairlington was built, part of what is now South Fairlingt
 
 By the time of Fairlington’s conversion to condominiums in the mid-1970’s, significant transportation improvements had been made. The construction of Metro, the addition of bus routes to the Pentagon and Ballston Metro stations, and the addition of express lanes on I-395 all contributed to greater choices – if not to greater speed – in getting around and in to the District. More recently, a bus terminal was constructed in Shirlington; bicycle lanes have been added as street repaving occurred; rental bicycles were offered; and an electric car charging station was installed in North Fairlington. All in the interests of advancing the choices for getting around.
 
-{{< image src="files/Getting-Around-Fairlington_Page_2_Image_0001-1024x647.jpg" caption="South Abingdon and 31st Road in 1943" >}}
+{{< image src="files/Getting-Around-Fairlington_Page_2_Image_0001.jpg" caption="South Abingdon and 31st Road in 1943" caption="Courtesy National Archives" >}}
 
-{{< image src="files/Getting-Around-Fairlington_Page_3_Image_0001-1024x734.jpg" caption="Quaker Lane and King Street in 1943" >}}
+{{< image src="files/Getting-Around-Fairlington_Page_3_Image_0001.jpg" caption="Quaker Lane and King Street in 1943" caption="Courtesy National Archives" >}}
 
-*All quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012. Photos courtesy National Archives.*
+---
+
+*All quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
 
 https://www.fairlingtonhistoricalsociety.org/getting-around-fairlington/

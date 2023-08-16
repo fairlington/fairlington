@@ -20,6 +20,6 @@ Six years after Fairlington construction was completed, in 1949, the DAR histori
 
 For more on our Boundary Stone, go to the [Boundary Stone page](http://www.fairlingtonhistoricalsociety.org/boundary-stone/). For locations and descriptions of all 40 boundary stones, go to [www.boundarystones.org](http://boundarystones.org).
 
-{{< image src="files/Fairlingtons-Boundary-Stone_Page_2_Image_0001-1024x682.jpg" caption="Stump of Boundary Stone #4, 2012 Courtesy, Guy Land" >}}
+{{< imagefull src="files/Fairlingtons-Boundary-Stone_Page_2_Image_0001" caption="Stump of Boundary Stone #4, 2012 Courtesy, Guy Land" >}}
 
 https://www.fairlingtonhistoricalsociety.org/fairlingtons-boundary-stone/

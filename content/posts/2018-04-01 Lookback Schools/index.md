@@ -42,4 +42,8 @@ Initially, a schoolhouse for 384 children in 1959, Abingdon added kindergarten f
 
 Today’s Abingdon is a vibrant, multicultural school that serves more than 600 students. Renovated and expanded (2016-17), FCA, FHS, and Fairlington Villages were all involved in the challenges of necessary expansion on limited land. In order to preserve Abingdon’s open field, used by students as well as the community, Fairlington Villages agreed to share certain parking spaces with the school. Commemorating each decade of the school and community partnership, FCA and FHS had planted a series of trees on school property that were lost to the renovation and expansion. New trees will be planted and re-dedicated to that partnership next fall.
 
+---
+
+*All quotations from Catherine Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
+
 https://www.fairlingtonhistoricalsociety.org/a-tale-of-two-fairlington-schools/

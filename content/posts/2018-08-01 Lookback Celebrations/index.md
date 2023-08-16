@@ -14,7 +14,7 @@ Fairlington’s first residents (1943 – 1945) had to be part of the World War 
 
 In Fairlington’s years as a rental community (1947 – 1972), groups and events multiplied. Property manager, Walter Hodges, encouraged arts and crafts shows, Fourth of July parades, Memorial Day celebrations and cookouts, and a community newspaper, The Fairlingtonian. A community theater group, The Fairlington Players, was established in 1947 and a host of other activities reflected the interests of residents: “Fairlington Travelers, the Fairlington Women’s Club, annual boat trips down the Potomac, Halloween parties, a bowling league, the famous Mrs. Fairlington Beauty Contest… Christmas tree bonfires, Kiwanis, Red Cross, League of Women Voters, American Association of University Women, Fairlington Civic Association, paper drives, church group meetings, and a modern dance troupe. For the children, there were Campfire Girls, Brownies, Girl Scouts, Boy Scouts, and Cub Scouts.”
 
-{{< image src="files/Fairlington-Celebrations-and-Activities_Page_1_Image_0001-1024x686.jpg" caption="Mrs. Stokes and neighbor with mint juleps on the back stoop – 1955 (Courtesy Donald Stokes)" >}}
+{{< image src="files/Fairlington-Celebrations-and-Activities_Page_1_Image_0001.jpg" caption="Mrs. Stokes and neighbor with mint juleps on the back stoop – 1955 (Courtesy Donald Stokes)" >}}
 
 As a condominium community, Fairlingtonians have continued to weave a rich fabric of neighborhood life. Informal village, courtyard, and pool parties have long been common. Pot luck and grill dinners, winter storm shoveling and cocoa parties, springtime planting events, and Bloody Mary contests all continue to bring neighbors together.
 
@@ -26,8 +26,10 @@ Across the community, the Fairlington Diners and Fairlington Book Group bring re
 
 Fairlingtonians – past and present – appreciate the unique neighborhood we all share. We seem never to run out of ideas for celebrating that and enjoying the company of our neighbors.
 
-{{< image src="files/Fairlington-Celebrations-and-Activities_Page_3_Image_0001-1024x695.jpg" caption="Fairlington Players’ Tent Theater Festival – 1965 (Courtesy William A. Dunston)" >}}
+{{< image src="files/Fairlington-Celebrations-and-Activities_Page_3_Image_0001.jpg" caption="Fairlington Players’ Tent Theater Festival – 1965 (Courtesy William A. Dunston)" >}}
 
-*Quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.*
+---
+
+Quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
 
 https://www.fairlingtonhistoricalsociety.org/fairlington-celebrations-and-activities/

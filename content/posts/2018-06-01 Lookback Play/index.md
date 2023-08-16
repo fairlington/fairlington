@@ -10,11 +10,11 @@ categories: ["75th anniversary lookback"]
 
 For Fairlington’s first families, there were many challenges of wartime living in a new community. Prominent among them was the lack of recreational and play space. The neighborhood’s original architectural drawings showed eight parks. None were built, though, and both children and adults improvised.
 
-{{< image src="files/Fairlington-at-Play_Page_1_Image_0001-1024x559.jpg" caption="34th and 36th Streets South, 1943. Courtesy National Archives" >}}
+{{< image src="files/Fairlington-at-Play_Page_1_Image_0001.jpg" caption="34th and 36th Streets South, 1943. Courtesy National Archives" >}}
 
 With no patio fencing, the rear of the buildings provided immediate play space for children, but presented hazards as well. In June 1944, Lt. Col. Douglass Walker wrote to the Defense Homes Corporation after his small daughter had fallen into a window well:
 
-{{< image src="files/Fairlington-at-Play_Page_1_Image_0002-1024x706.jpg" caption="Rear of 3464 -3466 South Stafford Street, 1943. Courtesy Fairlington Properties, Realtors" >}}
+{{< image src="files/Fairlington-at-Play_Page_1_Image_0002.jpg" caption="Rear of 3464 -3466 South Stafford Street, 1943. Courtesy Fairlington Properties, Realtors" >}}
 
 > “I am writing to you with regard to something that I feel is a definite health hazard …. I refer to the wells directly outside many cellar windows…. [and] should be covered by a suitable protective screening… to forestall… persons tripping and falling into them…”
 

@@ -29,6 +29,8 @@ Between 1965-75, the Shirley Highway was reconstructed to Interstate Highway Sys
 
 The I-95 designation was rerouted onto the eastern half of the Beltway and the remaining portion of the Shirley Highway north of Springfield was redesignated Interstate 395.
 
-*Sources: Fairlington at 50: 1943-1993, Fairlington Historical Society, Catherine B. Fellow Memorial Edition, 2012. A History of Roads in Virginia, Virginia Department of Transportation, 2006*
+---
+
+Sources: Fairlington at 50: 1943-1993, Fairlington Historical Society, Catherine B. Fellow Memorial Edition, 2012. A History of Roads in Virginia, Virginia Department of Transportation, 2006
 
 https://www.fairlingtonhistoricalsociety.org/fairlington-and-i-395/
