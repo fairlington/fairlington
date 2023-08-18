@@ -12,7 +12,7 @@ Today’s Fairlingtonians have a large array of commercial, shopping, and servic
 
 > “By the summer of 1943, nearly 1,000 families were already in residence, with another 150 moving in every month. They arrived to find no schools, no stores, no paved streets, inadequate garbage pickup and almost no public transportation… The proposed shopping center was nowhere to be seen…. ‘No matter how you plan, you forget an item or two,’ one Fairlington resident complained. ‘I even bought a bike to ride back and forth to the store – but there isn’t any store to ride to.’”
 
-{{< imagefull src="files/Where-Fairlingtonians-Go_Page_1_Image_0001.jpg" caption="Quaker Lane at Route 7 and 36th Street, 1943. Courtesy National Archives" >}}
+{{< figresize o=600x src="files/Where-Fairlingtonians-Go_Page_1_Image_0001.jpg" caption="Quaker Lane at Route 7 and 36th Street, 1943. Courtesy National Archives" >}}
 
 The Shirlington Shopping Center, intended to serve the new residents of Fairlington and also of Park Fairfax, then being built across Shirley Highway, began construction in 1943 and opened its first store a year later.** Following shortly afterwards was the Fairlington Shopping Center, along Fern Street and Quaker Lane in South Fairlington, and, more than a decade later in 1957, was the Bradlee Shopping Center along King Street.***
 
@@ -22,7 +22,7 @@ In 2000, the Shirlington center was reinvented as an ‘urban village,’ and an
 
 With the built environment around us constantly evolving and changing, Fairlington continues to be an oasis. Our buildings and grounds, though renovated, reinvented, and converted from rental to condominium homes, are still used for their original purposes.
 
-{{< imagefull src="files/Where-Fairlingtonians-Go_Page_2_Image_0001.jpg" caption="Fairlington c. 1950 – Courtesy Washington POST, reprint permission D.C. Public Library." >}}
+{{< figresize o=600x src="files/Where-Fairlingtonians-Go_Page_2_Image_0001.jpg" caption="Fairlington c. 1950 – Courtesy Washington POST, reprint permission D.C. Public Library." >}}
 
 ---
 

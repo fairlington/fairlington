@@ -9,6 +9,6 @@ weight: 50
 
 Or write to us at:
 
-Fairlington Historical Society, Inc.
-2776 South Arlington Mill Drive
-Arlington, Virginia 22206
+> Fairlington Historical Society, Inc.<br>
+> 2776 South Arlington Mill Drive, #150<br>
+> Arlington, VA 22206

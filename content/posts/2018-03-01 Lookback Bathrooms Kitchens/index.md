@@ -8,9 +8,9 @@ categories: ["75th anniversary lookback"]
 
 *This 75th Anniversary lookback article originally ran in the [March 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/march_2018_afb.pdf#page=11).*
 
-{{< image src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0001.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
+{{< fig src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0001.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
 
-{{< image src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0002.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
+{{< fig src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0002.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
 
 No two rooms have received quite as much attention from Fairlingtonians as our bathrooms and kitchens. Each year, FCA’s Home Improvement Expo, brings contractors together with residents eager for change. Every other year, the Fairlington Historical Society’s Home and Garden Tour, shows off the results of their vision and skill. The beginnings were humble, but solid.
 
@@ -30,9 +30,9 @@ Interested in renovating a bathroom or kitchen? Contact your condo association f
 
 Need ideas? A large gallery of Home and Garden Tour photos, including many bathrooms and kitchens, is available under the Publications and Tours tab.
 
-{{< imagefull src="files/Fairlington-Bathrooms-and-Kitchens_Page_3_Image_0001.jpg" caption="Courtesy Kendra Best" >}}
+{{< figresize o=600x src="files/Fairlington-Bathrooms-and-Kitchens_Page_3_Image_0001.jpg" caption="Courtesy Kendra Best" >}}
 
-{{< image src="files/Fairlington-Bathrooms-and-Kitchens_Page_4_Image_0001.jpg" caption="Courtesy Teresa Stiner" >}}
+{{< figfit o=600x600 src="files/Fairlington-Bathrooms-and-Kitchens_Page_4_Image_0001.jpg" caption="Courtesy Teresa Stiner" >}}
 
 ---
 

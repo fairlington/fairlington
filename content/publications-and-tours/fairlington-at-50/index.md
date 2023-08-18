@@ -5,7 +5,7 @@ linktitle: Fairlington at 50
 weight: 20
 ---
 
-{{< image src="files/FairlingtonAt50Cover2012New-e1488297259655.jpg" >}}
+{{< fig src="files/FairlingtonAt50Cover2012New-e1488297259655.jpg" >}}
 
 **Fairlington at 50: May 1943-May 1993 – The Catherine D. Fellows Memorial Edition**
 

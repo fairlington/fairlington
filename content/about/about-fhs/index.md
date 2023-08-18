@@ -1,7 +1,8 @@
 ---
 title: About
 summary: About the Fairlington Historical Society
-linktitle: About
+linktitle: About FHS
+slug: about fhs
 weight: 10
 ---
 
@@ -16,4 +17,4 @@ the law.
 
 All FHS projects and activities are organized and undertaken by volunteers. Contact Us to volunteer.
 
-{{< image src="files/Historic-Marker-Ceremony-1999.jpg" >}}
+{{< fig src="files/Historic-Marker-Ceremony-1999.jpg" >}}

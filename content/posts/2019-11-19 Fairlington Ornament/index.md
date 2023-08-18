@@ -5,7 +5,7 @@ slug: ornament
 date: 2019-11-19T07:00:00-05:00
 ---
 
-{{< image src="files/Ornament-Photo-1.jpg" >}}
+{{< fig src="files/Ornament-Photo-1.jpg" >}}
 
 Last year, the Fairlington Historical Society partnered with the Fairlington Citizens Association to create the Fairlington ornament in honor of the community’s 75th anniversary. The ornament proved to be very popular and we continue to make it available. At $10.00, each comes boxed with a brochure insert explaining the ornament design and offering a brief history of the neighborhood.
 

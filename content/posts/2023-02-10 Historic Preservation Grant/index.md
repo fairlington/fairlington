@@ -5,7 +5,7 @@ slug: historic preservation fund
 date: 2023-02-10T07:00:00-05:00
 ---
 
-{{< image src="files/HP-fund-image_-300x233.png" >}}
+{{< fig src="files/HP-fund-image_.png" >}}
 
 Arlington County has launched the [Historic Preservation Fund](https://www.arlingtonva.us/Government/Projects/Plans-Studies/Historic-Preservation/Historic-Preservation-Fund) (HPF), a competitive grant program that will support community and individual projects related to Arlington’s history, built environment, and cultural heritage.
 *The application period is now open. It closes on April 28, 2023.*

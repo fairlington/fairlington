@@ -10,11 +10,11 @@ categories: ["75th anniversary lookback"]
 
 When people who lived or grew up in Fairlington in the 1940’s and 1950’s visit the neighborhood today, they often comment that several things surprise them: First, that despite the pressures of urban density and infill, the community is still here with building exteriors essentially unchanged. Second, that the landscape, which was once so bare, is now so lush with trees, shrubs, and plants. And third, that the prices of Fairlington homes are so high.
 
-{{< imagefull src="files/Fairlington-Costs-and-Values_Page_1_Image_0001.jpg" caption="34th and 36th Streets South, 1943. Courtesy National Archives" >}}
+{{< figresize o=600x src="files/Fairlington-Costs-and-Values_Page_1_Image_0001.jpg" caption="34th and 36th Streets South, 1943. Courtesy National Archives" >}}
 
 Their surprise is understandable. In 1943, one-bedroom apartments in Fairlington rented for $58.50 – $69.50 per month; two bedrooms were $68.50 – $79.50; and three bedrooms were $79.50 – $89.50. Some 30 years later in 1972, the first converted condominium homes sold for between $19,000 – $44,500, depending on size, with 5% down and 25-30 year mortgages at 7.5-8.75%.* Today’s Fairlington home prices are visible each month on the pages of this publication.
 
-{{< imagefull src="files/Fairlington-Costs-and-Values_Page_2_Image_0001.jpg" caption="Paying the rent at the Administration Building, 4800 South 31st Street, c. 1945. Courtesy Arlington County Public Library" >}}
+{{< figresize o=600x src="files/Fairlington-Costs-and-Values_Page_2_Image_0001.jpg" caption="Paying the rent at the Administration Building, 4800 South 31st Street, c. 1945. Courtesy Arlington County Public Library" >}}
 
 Of course, the cost of living was substantially different at both points. The Federal minimum wage was $.30 per hour in 1943; in 1972, it was $2.00; today it is $7.25.** One hundred dollars in 1943, adjusted for inflation, was worth $241.62 in 1972 and is worth $1,448.50 today.***
 

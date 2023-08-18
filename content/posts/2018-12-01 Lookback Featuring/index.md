@@ -24,9 +24,9 @@ A few years later, Catherine D. Fellows quoted Brinkley in her neighborhood hist
 
 But, ultimately, she noted simply that “Sometimes a place derives a special dimension, not only from the land but from the history that claimed and later changed it.”****
 
-{{< imagefull src="files/Featuring-Fairlington_Page_2_Image_0001.jpg" >}}
+{{< figresize o=600x src="files/Featuring-Fairlington_Page_2_Image_0001.jpg" >}}
 
-{{< imagefull src="files/Featuring-Fairlington_Page_3_Image_0001.jpg" >}}
+{{< figresize o=600x src="files/Featuring-Fairlington_Page_3_Image_0001.jpg" >}}
 
 ---
 
