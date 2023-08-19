@@ -45,5 +45,3 @@ Today’s Abingdon is a vibrant, multicultural school that serves more than 600 
 ---
 
 *All quotations from Catherine Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
-
-https://www.fairlingtonhistoricalsociety.org/a-tale-of-two-fairlington-schools/

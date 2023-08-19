@@ -43,5 +43,3 @@ Give it a try! But, you might want to add an egg.
 *Lee Kennett, For the duration…: the United States goes to war, Pearl Harbor-1942. New York: Scribner, 1985. Sugar: U. S. consumers register for first ration books”. Life. 1942-05-11. Robert James Maddox. The United States and World War II. New York: Routledge, 2018.<br>
 **Caitlin Kearney. Smithsonian Institution Taylor Foundation Object Project Blog. April 1, 2016.<br>
 ***Jaya Saxena. Making “War Cake,” a Remnant of WWII Rationing. Eating History Blog, New-York Historical Society, November 6, 2014.<br>
-
-https://www.fairlingtonhistoricalsociety.org/feeding-fairlington/

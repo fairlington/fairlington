@@ -19,7 +19,7 @@ George Washington owned a portion of the land that became Fairlington, near the 
 
 The land on which Fairlington would stand was part of Union-occupied Alexandria County and the defenses of Washington. Among the 22 forts located in what is now Arlington County, one was in what is now North Fairlington, and another was near it. Despite the military use, the land remained largely wooded, with small farms, well into the 20th century and until the Defense Homes Corporation purchased it in 1941.
 
-{{< figfit o=600x600 src="files/Arlington-Neighborhoods-2-1017x1024.jpg" >}}
+{{< figfit o=600x600 src="files/Arlington-Neighborhoods-2.jpg" >}}
 
 Fairlington is organized into seven, independent condominium associations: Fairlington Arbor, Fairlington Commons, Fairlington Glen, Fairlington Green, Fairlington Meadows, Fairlington Mews, and Fairlington Villages. The civic association, the Fairlington Citizens Association, represents the community in local affairs and publishes the All Fairlington Bulletin. The Fairlington Historical Society promotes the preservation of the community’s unique history and legacy.
 

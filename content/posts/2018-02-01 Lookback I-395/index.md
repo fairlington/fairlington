@@ -32,5 +32,3 @@ The I-95 designation was rerouted onto the eastern half of the Beltway and the r
 ---
 
 Sources: Fairlington at 50: 1943-1993, Fairlington Historical Society, Catherine B. Fellow Memorial Edition, 2012. A History of Roads in Virginia, Virginia Department of Transportation, 2006
-
-https://www.fairlingtonhistoricalsociety.org/fairlington-and-i-395/

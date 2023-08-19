@@ -13,4 +13,4 @@ Last year, the Fairlington Historical Society partnered with the Fairlington Cit
 
 Questions?
 
-[Contact Us](mailto:webmaster@fairlingtonhistoricalsociety.org)
+[Contact Us](mailto:befhoff@gmail.com)

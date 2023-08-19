@@ -18,8 +18,6 @@ In 1915, the District chapter of the Daughters of the American Revolution (DAR) 
 
 Six years after Fairlington construction was completed, in 1949, the DAR historian reported that our #4 stone was in poor condition, “… broken off almost even with the ground.” In 1970, two years before Fairlington’s conversion to condominiums began, King St. was widened and the DAR noted that the stone had been buried, but was rescued and re-set 13 feet north of its original location (The Fairlington Boundary Stone, DAR, 2002).
 
-For more on our Boundary Stone, go to the [Boundary Stone page](http://www.fairlingtonhistoricalsociety.org/boundary-stone/). For locations and descriptions of all 40 boundary stones, go to [www.boundarystones.org](http://boundarystones.org).
+For more on our Boundary Stone, go to the [Boundary Stone page](/community/stone). For locations and descriptions of all 40 boundary stones, go to [www.boundarystones.org](http://boundarystones.org).
 
 {{< figresize o=600x src="files/Fairlingtons-Boundary-Stone_Page_2_Image_0001" caption="Stump of Boundary Stone #4, 2012. Courtesy Guy Land" >}}
-
-https://www.fairlingtonhistoricalsociety.org/fairlingtons-boundary-stone/

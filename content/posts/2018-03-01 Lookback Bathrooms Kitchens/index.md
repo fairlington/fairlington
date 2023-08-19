@@ -39,5 +39,3 @@ Need ideas? A large gallery of Home and Garden Tour photos, including many bathr
 Sources:
 - Catherine D. Fellows, Fairlington at 50, The Fairlington Historical Society, 2012.
 - “Is this the hottest condo conversion in the country?”, House & Home, August 1975.
-
-https://www.fairlingtonhistoricalsociety.org/fairlington-bathrooms-and-kitchens/

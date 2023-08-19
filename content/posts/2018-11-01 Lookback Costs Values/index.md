@@ -28,5 +28,3 @@ Surrounded by development and change, with costs of housing and living rising, o
 **U.S. Department of Labor, Bureau of Labor Statistics, Federal Minimum Wage Rates Under the Fair Labor Standards Act<br>
 ***American Institute for Economic Research, Cost of Living Calculator (aier.org)<br>
 ****U.S. Department of Labor, Bureau of Labor Statistics, Bulletin 799, Retail Prices of Food 1942 and 1943
-
-https://www.fairlingtonhistoricalsociety.org/fairlington-costs-and-values/

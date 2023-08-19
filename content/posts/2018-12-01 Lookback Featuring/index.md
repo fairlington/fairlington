@@ -34,5 +34,3 @@ But, ultimately, she noted simply that “Sometimes a place derives a special di
 **Playboy. October 1976, Volume 23, No. 10, page 67.<br>
 ***Brinkley, David, Washington Goes To War. Alfred A. Knopf, New York, 1988. Pp. 237-8.<br>
 **** Catherine D. Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012. Page 1
-
-https://www.fairlingtonhistoricalsociety.org/featuring-fairlington/

@@ -27,5 +27,3 @@ After World War II, as the Defense Homes Corporation prepared to sell the proper
 The Utah Field Park was created in 1975 on land originally slated for construction of additional homes. Fairlingtonians successfully lobbied Arlington County to purchase the property for use as a park instead. The Fairlington Citizens Association (FCA) was established the following year and participated in the 1979 preservation of the Fairlington School (now the Fairlington Community Center), which included additional recreational features and space that are currently being renovated and updated.
 
 Condominium conversion brought other recreational amenities, including pools, playgrounds, and tennis and basketball courts throughout the neighborhood. Reflecting the community’s current age diversity, Fairlington Villages renovated its pools in the last decade to include a lap pool, heated for earlier and later seasonal use, and a family-friendly pool. The first tennis court was re-purposed for use by the increasing number of pickleball players in 2016.
-
-https://www.fairlingtonhistoricalsociety.org/fairlington-at-play/

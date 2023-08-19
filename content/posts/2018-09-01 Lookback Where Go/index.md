@@ -29,6 +29,4 @@ With the built environment around us constantly evolving and changing, Fairlingt
 *Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.<br>
 **Fairlington-Shirlington Neighborhood Conservation Plan, FCA, 2013.<br>
 ***“After the War Alexandrians Flocked to Shopping Centers,’ Alexandria Times, May 23, 2013.<br>
-****“Skyline House: The History of Bailey’s Crossroads (Adapted from a History by Susan Flimmer)”. Falls Church, Virginia: SHUOA: Skyline House Unit Owners Association. June 2, 2014.<br>
-
-https://www.fairlingtonhistoricalsociety.org/where-fairlingtonians-go/
+****“Skyline House: The History of Bailey’s Crossroads (Adapted from a History by Susan Flimmer)”. Falls Church, Virginia: SHUOA: Skyline House Unit Owners Association. June 2, 2014.
