@@ -18,8 +18,7 @@ The section of the highway from the Pentagon to State Route 7 opened with mostly
 
 All of Fairlington’s original drawings contemplated that a bridge across Shirley Highway would connect North and South Fairlington and would be built at the same time as the community and the highway were being constructed. The Defense Homes Corporation, which built Fairlington, conveyed the necessary land, but the bridge was not built. In 1944, the corporation informed Arlington County that:
 
-> “…the plans for Fairlington provide for a bridge over Shirley Memorial Drive, connecting South Abingdon in the North side with 34th Street South in the South side of the project…. The bridge will be built by Federal Works Agency with Government funds. Its installation has been deferred because of the emergency and the refusal at this time of the War Production Board to grant the necessary priorities for the release of requisite materials. The work will proceed as soon as the state of emergency will permit.”
-> (Fairlington at 50, p. 79)
+> *“…the plans for Fairlington provide for a bridge over Shirley Memorial Drive, connecting South Abingdon in the North side with 34th Street South in the South side of the project…. The bridge will be built by Federal Works Agency with Government funds. Its installation has been deferred because of the emergency and the refusal at this time of the War Production Board to grant the necessary priorities for the release of requisite materials. The work will proceed as soon as the state of emergency will permit.”* (Fairlington at 50, p. 79)
 
 The state of emergency lasted until Shirley Highway was widened in the 1960s. At that time, the long-awaited bridge was built.
 

@@ -14,7 +14,7 @@ The chart below outlines the characteristics and floor plans of each of Fairling
 | [Ashlawn II](files/ashlawn_II_floor_plan.pdf)        | 1225    | Apt    | No       | No   | 2        | 1     | Yes           |
 | [Barcroft](files/barcroft_floor_plan.pdf)            | 1490    | Apt    | Yes      | Yes  | 1        | 2     | No            |
 | [Barcroft II](files/barcroft_II_III_floor_plan.pdf)  | 1422    | Apt    | Yes      | Yes  | 1        | 2     | No            |
-| [Barcroft III](files/barcroft_II_III_floor_plan.pdf) | 1400    | Apt    | Yes      | Yes  | 1        | 2     | No            |
+| [Barcroft III](files/barcroft_II_III_floor_plan.pdf) | 1422    | Apt    | Yes      | Yes  | 1        | 2     | No            |
 | [Berkeley](files/berkeley_floor_plan.pdf)            | 1103    | Apt    | No       | No   | 2        | 1     | No            |
 | [Braddock](files/braddock_floor_plan.pdf)            | 767     | Apt    | No       | No   | 1        | 1     | No            |
 | [Braddock II](files/braddock_II.pdf)                 | 767     | Apt    | No       | No   | 1        | 1     | No            |

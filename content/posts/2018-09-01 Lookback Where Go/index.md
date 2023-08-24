@@ -10,7 +10,7 @@ categories: ["75th anniversary lookback"]
 
 Today’s Fairlingtonians have a large array of commercial, shopping, and service amenities available to them. The first Fairlingtonians, however, were not so fortunate:
 
-> “By the summer of 1943, nearly 1,000 families were already in residence, with another 150 moving in every month. They arrived to find no schools, no stores, no paved streets, inadequate garbage pickup and almost no public transportation… The proposed shopping center was nowhere to be seen…. ‘No matter how you plan, you forget an item or two,’ one Fairlington resident complained. ‘I even bought a bike to ride back and forth to the store – but there isn’t any store to ride to.’”
+> *“By the summer of 1943, nearly 1,000 families were already in residence, with another 150 moving in every month. They arrived to find no schools, no stores, no paved streets, inadequate garbage pickup and almost no public transportation… The proposed shopping center was nowhere to be seen…. ‘No matter how you plan, you forget an item or two,’ one Fairlington resident complained. ‘I even bought a bike to ride back and forth to the store – but there isn’t any store to ride to.’”* *
 
 {{< figresize o=600x src="files/Where-Fairlingtonians-Go_Page_1_Image_0001.jpg" caption="Quaker Lane at Route 7 and 36th Street, 1943. Courtesy National Archives" >}}
 

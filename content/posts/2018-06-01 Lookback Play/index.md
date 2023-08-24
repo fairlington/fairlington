@@ -16,11 +16,11 @@ With no patio fencing, the rear of the buildings provided immediate play space f
 
 {{< figresize o=600x src="files/Fairlington-at-Play_Page_1_Image_0002.jpg" caption="Rear of 3464 -3466 South Stafford Street, 1943. Courtesy Fairlington Properties, Realtors" >}}
 
-> “I am writing to you with regard to something that I feel is a definite health hazard …. I refer to the wells directly outside many cellar windows…. [and] should be covered by a suitable protective screening… to forestall… persons tripping and falling into them…”
+> *“I am writing to you with regard to something that I feel is a definite health hazard …. I refer to the wells directly outside many cellar windows…. [and] should be covered by a suitable protective screening… to forestall… persons tripping and falling into them…”*
 
 Other children’s adventures were nothing short of alarming. One resident recalled in an oral history:
 
-> “There was a standing rule that [children] were not to cross Buchanan Street… [and they] all… abided by it. [One day] my aunt got a call from a neighbor who said, “You know the rule [about] children crossing the street? …Well, …they’re going under [it].” These children had figured out a way to …[climb] down into the sewer system… [and] they continued to play down there for years… the farthest they ever got was halfway to Annandale out Columbia Pike.”
+> *“There was a standing rule that [children] were not to cross Buchanan Street… [and they] all… abided by it. [One day] my aunt got a call from a neighbor who said, “You know the rule [about] children crossing the street? …Well, …they’re going under [it].” These children had figured out a way to …[climb] down into the sewer system… [and] they continued to play down there for years… the farthest they ever got was halfway to Annandale out Columbia Pike.”*
 
 After World War II, as the Defense Homes Corporation prepared to sell the property, the manager noted the lack of recreational facilities and urged that this be addressed. Fairlingtonians would wait, however, until the property was converted, some 30 years later.
 

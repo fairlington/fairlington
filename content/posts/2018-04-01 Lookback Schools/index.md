@@ -12,7 +12,7 @@ A vital part of any community, Fairlington has been home to two elementary schoo
 
 The first, Fairlington Elementary School (now the Fairlington Community Center), at 3308 South Stafford Street, was planned and built along with the construction of Fairlington. It opened in February 1944 for children in grades 1-6.
 
-> “Arlington’s School Board applied for a grant (September 1942) from the Federal Works Agency… and was given $190,000 for an elementary and $174,500 for a junior-senior high school in Fairlington…. [The] Defense Homes [Corporation] conveyed 8.18 acres to the county “for and in consideration of … Ten (10) dollars … for public school, park, recreation and other public purposes …” in the rental housing project…”*
+> *“Arlington’s School Board applied for a grant (September 1942) from the Federal Works Agency… and was given $190,000 for an elementary and $174,500 for a junior-senior high school in Fairlington…. [The] Defense Homes [Corporation] conveyed 8.18 acres to the county “for and in consideration of … Ten (10) dollars … for public school, park, recreation and other public purposes …” in the rental housing project…”*
 
 {{< fig src="files/A-Tale-of-Two-Fairlington-Schools_Page_1_Image_0001.jpg" caption="Fairlington Elementary School, c. 1972 (now the Fairlington Community Center)<br>(Courtesy Fairlington Properties, Realtors)" >}}
 
@@ -28,7 +28,7 @@ Turn right at the center’s main hallway and then left and you’ll see two lar
 
 Fairlington’s second school opened in 1959 as the post-World War II ‘baby boom’ continued to reach school age and the population of Arlington continued to grow.
 
-> “Parents, teachers, and members of the Fairlington Civic Association worked together… County voters approved a bond (May 1947) for a 14-room school in North Fairlington, but a counterproposal to spend the money on an eight room addition to South Fairlington’s school gained widespread support. A civic association delegation went to the school board (October 1947) to report that the existing school was large enough by Federal Government standards and to urge the county to build a new one in North Fairlington… the board agreed with the association’s suggestion of a neighborhood poll… The results: 92 votes against and 2,011 for a northside school.”*
+> *“Parents, teachers, and members of the Fairlington Civic Association worked together… County voters approved a bond (May 1947) for a 14-room school in North Fairlington, but a counterproposal to spend the money on an eight room addition to South Fairlington’s school gained widespread support. A civic association delegation went to the school board (October 1947) to report that the existing school was large enough by Federal Government standards and to urge the county to build a new one in North Fairlington… the board agreed with the association’s suggestion of a neighborhood poll… The results: 92 votes against and 2,011 for a northside school.”*
 
 Built on land donated to the county by CBI Fairmac, which had purchased the entire Fairlington property in 1947, the school was originally called ‘North Fairlington Elementary’ after its location. By the time it opened, though, it had been named after the Abingdon House and plantation, owned by the prominent Virginia Alexander and Custis families, and now part of the Ronald Reagan Washington National Airport property.
 
@@ -36,7 +36,7 @@ Built on land donated to the county by CBI Fairmac, which had purchased the enti
 
 Like its sibling school to the south, Abingdon Elementary’s history has been strongly influenced by Fairlington’s active parents and civic association.
 
-> “Abingdon’s original plans called for six rooms. Four more were added after the Parents-Teachers Association and the civic association surveyed each house to learn the number of children in the area.”
+> *“Abingdon’s original plans called for six rooms. Four more were added after the Parents-Teachers Association and the civic association surveyed each house to learn the number of children in the area.”*
 
 Initially, a schoolhouse for 384 children in 1959, Abingdon added kindergarten facilities in 1965 and later expanded to 19 classrooms, a multipurpose room, library, offices, and kitchen, with a parking lot added in 1970.
 

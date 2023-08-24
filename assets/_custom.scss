@@ -31,4 +31,8 @@
 }
 figure {
     text-align: center;
+    figcaption p {
+        font-size: 0.875em;
+        color: var(--gray-700);
+    }
 }
