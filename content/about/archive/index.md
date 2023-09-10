@@ -16,7 +16,7 @@ The collection has four parts:
 - [Record Group 25](files/25.pdf) – Fairlington Neighborhood History
 - [Record Group 68](files/68.pdf) – Fairlington Community Records
 
-The FHS archive also includes a variety of material, photographs, and memorabilia loaned for duplication or donated by past and present Fairlington residents. A memorabilia display is located at the North Fairlington Community Center (3005 South Abingdon Street, Arlington, VA).
+The FHS archive also includes a variety of material, photographs, and memorabilia loaned for duplication or donated by past and present Fairlington residents. A memorabilia display is located at the North Fairlington Community Center (3005 South Abingdon Street, Arlington, VA). FHS also retains a partial archive of the All Fairlington Bulletin, which we hope to scan and make available on this website in the future.
 
 The three-dimensional models of the Fairlington community used in the sales office in the 1970’s have been conserved and are on display at the Fairlington Community Center (3308 South Stafford Street, Arlington, VA).
 

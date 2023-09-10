@@ -20,4 +20,6 @@ The Fairlington Historical Society seeks to:
 - **Provide** – Awareness and education for the community on Fairlington’s history and on the value and methods of historic preservation; assistance and guidance for the Fairlington condominium villages and other Fairlington associations on matters of historical preservation.
 - **Promote** – Participation of all Fairlington residents, past and current, and other interested parties in the life of a vital and cohesive community.
 
+<!--
 {{< fig src="files/Ch-4_2.jpg" >}}
+-->

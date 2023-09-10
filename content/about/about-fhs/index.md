@@ -10,7 +10,12 @@ The Fairlington Historical Society (FHS) is an organization of Fairlingtonians, 
 
 Organized in 2000, the FHS succeeded the Fairlington Historic Designation Committee, which had pursued and achieved Historic District status for Fairlington and placement on the Virginia Landmarks Register (December 1998) and on the National Register of Historic Places (March 1999). The application to these registers, which describes many of Fairlington's historic qualities, [is available here](files/nomination.pdf).
 
-The FHS is governed by a Board of Trustees. Our goals encompass a range of community, education, preservation, and publication work.
+The FHS is governed by a Board of Trustees. Our goals encompass a range of community, education, preservation, and publication work. Board members are elected for three year terms.
+
+- President: Beth Hoffman, elected 2023
+- Vice President: Martha Herrmann, elected 2023
+- Secretary: Lisa Sabol, elected 2023
+- Treasurer: Dan Burd, elected 2023
 
 The Society was granted exemption under Section 501(c)(3) of the Internal Revenue Code by the Internal Revenue Service on September 18, 2000, and was registered with the Commonwealth of Virginia under Section 57-49 of the Virginia Solicitation of Contributions Law on June 27, 2001. All contributions are tax deductible to the full extent of
 the law.
