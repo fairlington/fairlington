@@ -14,9 +14,9 @@ The first, Fairlington Elementary School (now the Fairlington Community Center),
 
 > *“Arlington’s School Board applied for a grant (September 1942) from the Federal Works Agency… and was given $190,000 for an elementary and $174,500 for a junior-senior high school in Fairlington…. [The] Defense Homes [Corporation] conveyed 8.18 acres to the county “for and in consideration of … Ten (10) dollars … for public school, park, recreation and other public purposes …” in the rental housing project…”*
 
-{{< fig src="files/A-Tale-of-Two-Fairlington-Schools_Page_1_Image_0001.jpg" caption="Fairlington Elementary School, c. 1972 (now the Fairlington Community Center)<br>(Courtesy Fairlington Properties, Realtors)" >}}
+{{< figresize o=x600 src="files/A-Tale-of-Two-Fairlington-Schools_Page_1_Image_0001.png" caption="Fairlington Elementary School, c. 1972 (now the Fairlington Community Center)<br>(Courtesy Fairlington Properties, Realtors)" >}}
 
-{{< fig src="files/A-Tale-of-Two-Fairlington-Schools_Page_1_Image_0002.jpg" caption="Children and a defense worker Utah Street approaching 35th Street, 1945.<br>(Courtesy Fairlington Properties, Realtors)" >}}
+{{< figresize o=600x src="files/A-Tale-of-Two-Fairlington-Schools_Page_1_Image_0002.png" caption="Children and a defense worker Utah Street approaching 35th Street, 1945.<br>(Courtesy Fairlington Properties, Realtors)" >}}
 
 The school, then as now, was a focal point of community life. “The Fairlington Parents-Teachers Association was organized almost the moment the school opened; it later participated in the Arlington County Council of Parents and Teachers. The school’s grounds were used for neighborhood sports and other activities, such as the shredding of Christmas trees into mulch for the tenants’ tiny gardens. The 16-room building offered space for civic meetings, social gettogethers, and plays.”*
 
@@ -32,7 +32,7 @@ Fairlington’s second school opened in 1959 as the post-World War II ‘baby bo
 
 Built on land donated to the county by CBI Fairmac, which had purchased the entire Fairlington property in 1947, the school was originally called ‘North Fairlington Elementary’ after its location. By the time it opened, though, it had been named after the Abingdon House and plantation, owned by the prominent Virginia Alexander and Custis families, and now part of the Ronald Reagan Washington National Airport property.
 
-{{< fig src="files/A-Tale-of-Two-Fairlington-Schools_Page_3_Image_0001.jpg" caption="Abingdon Elementary School, c. 1992 (Photo by Jim Tingstrum)" >}}
+{{< figresize o=600x src="files/A-Tale-of-Two-Fairlington-Schools_Page_3_Image_0001.png" caption="Abingdon Elementary School, c. 1992 (Photo by Jim Tingstrum)" >}}
 
 Like its sibling school to the south, Abingdon Elementary’s history has been strongly influenced by Fairlington’s active parents and civic association.
 
@@ -44,4 +44,4 @@ Today’s Abingdon is a vibrant, multicultural school that serves more than 600 
 
 ---
 
-*All quotations from Catherine Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
+*All quotations from Catherine Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.*

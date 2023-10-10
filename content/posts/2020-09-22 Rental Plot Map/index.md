@@ -11,4 +11,4 @@ This early map of Fairlington was last used by the Fairmac Corporation during th
 
 It is now available for purchase in 36” X 24” poster format.
 
-[**Click here**](/publications-and-tours/maps) for more details, and to download the order form.
+[**Click here**](/maps) for more details, and to download the order form.

@@ -30,4 +30,4 @@ Fairlingtonians – past and present – appreciate the unique neighborhood we a
 
 ---
 
-Quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
+*Quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.*

@@ -22,7 +22,7 @@ All of Fairlington’s original drawings contemplated that a bridge across Shirl
 
 The state of emergency lasted until Shirley Highway was widened in the 1960s. At that time, the long-awaited bridge was built.
 
-{{< fig src="files/Fairlington-and-I-395_Page_2_Image_0001.jpg" caption="Widening of Shirley Highway and building of bridge, 1966.<br>(Courtesy Fairlington Properties, Realtors)" >}}
+{{< figresize o=600x src="files/Fairlington-and-I-395_Page_2_Image_0001.png" caption="Widening of Shirley Highway and building of bridge, 1966.<br>(Courtesy Fairlington Properties, Realtors)" >}}
 
 Between 1965-75, the Shirley Highway was reconstructed to Interstate Highway System standards and designated as Interstate 95. Original plans called for I-95 to cut through Washington, D.C., connecting with the Capital Beltway (I-495) in Maryland. However, community opposition halted this plan in 1977 and funds were instead devoted to the construction of the region’s Metro subway system.
 

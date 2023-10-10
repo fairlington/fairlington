@@ -24,9 +24,10 @@ params:
   booktoc: false
 
 permalinks:
-  about: /:sections[1:]/:slug/
-  community: /:sections[1:]/:slug/
-  publications-and-tours: /:sections[1:]/:slug/
+  docs: /:sections[1:]/:filename/
+  about: /:sections[1:]/:filename/
+  community: /:sections[1:]/:filename/
+  publications-and-tours: /:sections[1:]/:filename/
   posts: /:year/:month/:slug/
 
 copyright: Fairlington Historical Society

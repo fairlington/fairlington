@@ -16,15 +16,15 @@ Following the attack on Pearl Harbor in 1941, the Office of Price Administration
 
 {{< fig src="files/Feeding-Fairlington_Page_1_Image_0002.jpg" >}}
 
-Food rationing and the distribution of ration books also began in 1942. Each person in a household received one through schools, PTAs, and other voluntary organizations. Sugar was the first commodity to be rationed but, by 1943, the list had grown to include meat, lard, shortening, food oils, cheese, butter, margarine, processed foods, dried fruits, canned milk, jams, jellies, and fruit butter.*
+Food rationing and the distribution of ration books also began in 1942. Each person in a household received one through schools, PTAs, and other voluntary organizations. Sugar was the first commodity to be rationed but, by 1943, the list had grown to include meat, lard, shortening, food oils, cheese, butter, margarine, processed foods, dried fruits, canned milk, jams, jellies, and fruit butter. [^1]
 
 Even with the rationing system in place, some commodities remained in short supply. Feeding a family required careful planning and inventive approaches. Cookbooks appeared to guide homemakers, many of which are held in the Product Cookbook Collection at The Smithsonian Institution (SI). A few years ago, staff from SI’s Patrick F. Taylor Object Project, experimented with these recipes.
 
 {{< fig src="files/Feeding-Fairlington_Page_2_Image_0001.jpg" >}}
 
-“We noticed that the chipper tone of these ration cookbooks reassures home cooks that they can make tasty meals with limited ingredients… General Foods Corporation’s Recipes for Today, published in 1943, takes an enthusiastic, patriotic tone in describing creative fixes and substitutions for rationed ingredients. The section “Cheer for Lunch Boxes” declares that “war-working lunches must offer good square meals.”**
+“We noticed that the chipper tone of these ration cookbooks reassures home cooks that they can make tasty meals with limited ingredients… General Foods Corporation’s Recipes for Today, published in 1943, takes an enthusiastic, patriotic tone in describing creative fixes and substitutions for rationed ingredients. The section “Cheer for Lunch Boxes” declares that “war-working lunches must offer good square meals.” [^2]
 
-Here is an example of a ‘war cake’*** made without butter, eggs, or milk:
+Here is an example of a ‘war cake’[^3] made without butter, eggs, or milk:
 
 - 2 cups castor sugar
 - 2 cups hot water
@@ -38,8 +38,6 @@ Boil all together. After cold, add 2 cups of flour, 1 teaspoon of baking soda di
 
 Give it a try! But, you might want to add an egg.
 
----
-
-*Lee Kennett, For the duration…: the United States goes to war, Pearl Harbor-1942. New York: Scribner, 1985. Sugar: U. S. consumers register for first ration books”. Life. 1942-05-11. Robert James Maddox. The United States and World War II. New York: Routledge, 2018.<br>
-**Caitlin Kearney. Smithsonian Institution Taylor Foundation Object Project Blog. April 1, 2016.<br>
-***Jaya Saxena. Making “War Cake,” a Remnant of WWII Rationing. Eating History Blog, New-York Historical Society, November 6, 2014.<br>
+[^1]: Lee Kennett, For the duration…: the United States goes to war, Pearl Harbor-1942. New York: Scribner, 1985. Sugar: U. S. consumers register for first ration books”. Life. 1942-05-11. Robert James Maddox. The United States and World War II. New York: Routledge, 2018.
+[^2]: Caitlin Kearney. Smithsonian Institution Taylor Foundation Object Project Blog. April 1, 2016.
+[^3]: Jaya Saxena. Making “War Cake,” a Remnant of WWII Rationing. Eating History Blog, New-York Historical Society, November 6, 2014.

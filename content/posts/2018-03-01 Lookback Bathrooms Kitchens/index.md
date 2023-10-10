@@ -8,7 +8,7 @@ categories: ["75th anniversary lookback"]
 
 *This 75th Anniversary lookback article originally ran in the [March 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/march_2018_afb.pdf#page=11).*
 
-{{< fig src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0001.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
+{{< figresize o=600x src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0001.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
 
 {{< fig src="files/Fairlington-Bathrooms-and-Kitchens_Page_1_Image_0002.jpg" caption="Courtesy of Fairlington Properties, Realtors" >}}
 

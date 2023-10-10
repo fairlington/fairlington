@@ -22,4 +22,4 @@ By the time of Fairlington’s conversion to condominiums in the mid-1970’s, s
 
 ---
 
-*All quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.
+*All quotations from Catherine D Fellows, Fairlington at Fifty. The Fairlington Historical Society, 2012.*
