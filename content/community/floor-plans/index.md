@@ -25,16 +25,17 @@ The chart below outlines the characteristics and floor plans of each of Fairling
 | [Buckingham](files/buckingham_floor_plan.pdf)        | 1290    | Apt    | No       | No   | 3        | 2     | No            |
 | [Clarendon](files/clarendon_floor_plan.pdf)          | 1500    | TH     | Yes      | Yes  | 2        | 2     | No            |
 | [Clarendon II](files/clarendon_II.pdf)               | 1383    | TH     | Yes      | Yes  | 2        | 2     | No            |
-| [Dominion](files/dominion_floor_plan.pdf)            | 1830    | TH     | Yes      | Yes  | 3        | 2     | No            |
+| [Dominion](files/dominion_i.pdf)                     | 1830    | TH     | Yes      | Yes  | 3        | 2     | No            |
 | [Dominion II](files/dominion_II_floor_plan.pdf)      | 1689    | TH     | Yes      | Yes  | 2        | 2     | No            |
 | [Edgewood](files/edgewood_floor_plan.pdf)            | 1400    | TH     | Yes      | Yes  | 1        | 2     | No            |
-| [Essex](files/essexfloorplan.jpg)                    | 910     | TH     | No       | No   | 1        | 1     | No            |
-| [Fairfax](files/fairfax_floor_plan.pdf)              | 895     | Apt    | No       | No   | 2        | 1     | No            |
+| [Essex](files/essex.pdf)                             | 910     | TH     | No       | No   | 1        | 1     | No            |
+| [Fairfax I](files/fairfax_i.pdf)                     | 1020    | Bsmt   | No       | No   | 2        | 1     | No            |
+| [Fairfax II](files/fairfax_floor_plan.pdf)           | 895     | Bsmt   | No       | No   | 2        | 1     | No            |
 | Fairlington                                          | 785     | Bsmt   | No       | No   | 1        | 1     | No            |
-| [Georgetown](files/georgetownfloorplan.jpg)          | 922     | TH     | No       | No   | 2        | 1     | No            |
+| [Georgetown](files/georgetown.pdf)                   | 922     | TH     | No       | No   | 2        | 1     | No            |
 | [Hermitage](files/hermitage_floor_plan.pdf)          | 1528    | Apt    | Yes      | Yes  | 1        | 2     | No            |
 | [Monticello](files/monticello_floor_plan.pdf)        | 1712    | Apt    | Yes      | Yes  | 1        | 2     | No            |
-| [Mt. Vernon](files/mt_vernon_floor_plan.pdf)         | 1860    | Apt    | Yes      | Yes  | 2        | 2     | No            |
+| [Mt. Vernon](files/mt_vernon.pdf)                    | 1860    | Apt    | Yes      | Yes  | 2        | 2     | No            |
 | [Richmond](files/richmond_floor_plan.pdf)            | 1031    | Apt    | No       | No   | 2        | 1     | Yes           |
 | [Sherwood](files/sherwood_floor_plan.pdf)            | 1200    | Apt    | No       | No   | 2        | 1     | No            |
 | [Staunton](files/staunton_floor_plan.pdf)            | 1121    | Apt    | No       | No   | 2        | 1     | Yes           |
