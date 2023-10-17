@@ -2,7 +2,7 @@
 title: 75th Anniversary Lookback — Where Fairlingtonians Go
 summary: 75th Anniversary Lookback — Where Fairlingtonians Go
 slug: lookback where fairlingtonians go
-date: 2018-09-01T07:00:00-05:00
+date: 2018-09-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]
 ---
 

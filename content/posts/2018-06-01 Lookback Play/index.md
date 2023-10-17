@@ -2,7 +2,7 @@
 title: 75th Anniversary Lookback — Fairlington at Play
 summary: 75th Anniversary Lookback — Fairlington at Play
 slug: lookback fairlington play
-date: 2018-06-01T07:00:00-05:00
+date: 2018-06-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]
 ---
 

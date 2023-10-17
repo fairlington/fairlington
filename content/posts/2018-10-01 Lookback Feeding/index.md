@@ -2,7 +2,7 @@
 title: 75th Anniversary Lookback — Feeding Fairlington
 summary: 75th Anniversary Lookback — Feeding Fairlington
 slug: lookback feeding fairlington
-date: 2018-10-01T07:00:00-05:00
+date: 2018-10-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]
 ---
 

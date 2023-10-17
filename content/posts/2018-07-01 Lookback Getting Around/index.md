@@ -2,7 +2,7 @@
 title: 75th Anniversary Lookback — Getting Around Fairlington
 summary: 75th Anniversary Lookback — Getting Around Fairlington
 slug: lookback getting around
-date: 2018-07-01T07:00:00-05:00
+date: 2018-07-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]
 ---
 

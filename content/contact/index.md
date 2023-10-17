@@ -5,7 +5,7 @@ linktitle: Contact
 weight: 50
 ---
 
-[Email Us](mailto:befhoff@gmail.com)
+[Email Us](mailto:president@fairlingtonhistoricalsociety.org)
 
 Or write to us at:
 

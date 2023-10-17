@@ -2,7 +2,7 @@
 title: 75th Anniversary Lookback — A Tale of Two Fairlington Schools
 summary: 75th Anniversary Lookback — A Tale of Two Fairlington Schools
 slug: lookback schools
-date: 2018-04-01T07:00:00-05:00
+date: 2018-04-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]
 ---
 

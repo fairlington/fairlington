@@ -2,7 +2,7 @@
 title: 75th Anniversary Lookback — Celebrations and Activities
 summary: 75th Anniversary Lookback — Celebrations and Activities
 slug: lookback celebrations activities
-date: 2018-08-01T07:00:00-05:00
+date: 2018-08-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]
 ---
 
