@@ -12,7 +12,7 @@ h1 { display: none; }
 <img src="home/cropped-Fairlington-Header-Logo.png" class="imagecenter" >
 
 <script>
-    var images = ["carousel/2005_Architecture_2_Edited-840x442.jpg", "carousel/2005_Slide96-1059x557.jpg", "carousel/FRL_Banner_Resized_0002_Ch-3_9.jpg", "carousel/FRL_Banner_Resized_0003_Ch-2_7.jpg", "carousel/FRL_Banner_Resized_0004_Ch-2_6.jpg"];
+    var images = ["carousel/2-004-cropped.jpg", "carousel/2-005-cropped.jpg", "carousel/3-008-cropped.jpg", "carousel/2005_Architecture_2_Edited-cropped.jpg", "carousel/2005_Slide96-cropped.jpg"];
     var randomName = images[Math.floor(Math.random() * images.length)];
 </script>
 
