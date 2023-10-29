@@ -1,6 +1,6 @@
 ---
 title: Fairlington's Original Wallpaper
-summary: You never know when you'll find artifacts of the original Fairlington homes.
+summary: View an artifact of an original Fairlington home.
 slug: wallpapers
 date: 2023-10-29T05:00:00-04:00
 images: ["2023/10/wallpaper/files/wallpaper1.jpg"]
