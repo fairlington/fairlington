@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary Lookback — Celebrations and Activities
-summary: 75th Anniversary Lookback — Celebrations and Activities
+summary: Celebrations and activities have always been an important part of the Fairlington community.
 slug: lookback celebrations activities
 date: 2018-08-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]

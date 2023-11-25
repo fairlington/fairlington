@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary Lookback — A Tale of Two Fairlington Schools
-summary: 75th Anniversary Lookback — A Tale of Two Fairlington Schools
+summary: Fairlington's schools have always been a focal point of community life.
 slug: lookback schools
 date: 2018-04-01T07:00:00-04:00
 categories: ["75th anniversary lookback"]

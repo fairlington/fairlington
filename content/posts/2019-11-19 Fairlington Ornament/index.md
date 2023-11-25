@@ -1,6 +1,6 @@
 ---
 title: Fairlington Ornament
-summary: Fairlington ornament is available for sale.
+summary: The Fairlington ornament is available for sale.
 slug: ornament
 date: 2019-11-19T07:00:00-05:00
 ---
@@ -13,4 +13,4 @@ Last year, the Fairlington Historical Society partnered with the Fairlington Cit
 
 Questions?
 
-[Contact Us](mailto:befhoff@gmail.com)
+[Contact Us](mailto:president@fairlingtonhistoricalsociety.org)

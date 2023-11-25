@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary Lookback — Fairlington and I-395
-summary: 75th Anniversary Lookback — Fairlington and I-395
+summary: I-395 divided Fairlington until a bridge was built.
 slug: lookback i-395
 date: 2018-02-01T07:00:00-05:00
 categories: ["75th anniversary lookback"]

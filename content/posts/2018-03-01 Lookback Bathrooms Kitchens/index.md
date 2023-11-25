@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary Lookback — Fairlington Bathrooms and Kitchens
-summary: 75th Anniversary Lookback — Fairlington Bathrooms and Kitchens
+summary: Bathrooms and kitchens have changed a great deal in Fairlington.
 slug: lookback bathrooms kitchens
 date: 2018-03-01T07:00:00-05:00
 categories: ["75th anniversary lookback"]

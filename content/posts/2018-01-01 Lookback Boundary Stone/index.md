@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary Lookback — Fairlington's Boundary Stone
-summary: 75th Anniversary Lookback — Fairlington's Boundary Stone
+summary: One of the first Federal monuments happens to be located in Fairlington.
 slug: lookback boundary stone
 date: 2018-01-01T07:00:00-05:00
 categories: ["75th anniversary lookback"]

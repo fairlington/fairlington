@@ -20,4 +20,4 @@ The FHS archive also includes a variety of material, photographs, and memorabili
 
 The three-dimensional models of the Fairlington community used in the sales office in the 1970’s have been conserved and are on display at the Fairlington Community Center (3308 South Stafford Street, Arlington, VA).
 
-Do you have pictures? Memorabilia? Artifacts? [Contact Us](mailto:befhoff@gmail.com)
+Do you have pictures? Memorabilia? Artifacts? [Contact Us](mailto:president@fairlingtonhistoricalsociety.org)

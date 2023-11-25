@@ -1,6 +1,6 @@
 ---
 title: 75th Anniversary Lookback — Featuring Fairlington
-summary: 75th Anniversary Lookback — Featuring Fairlington
+summary: Following the 1970's renovations, Fairlington was advertised in a magazine.
 slug: lookback featuring fairlington
 date: 2018-12-01T07:00:00-05:00
 categories: ["75th anniversary lookback"]
