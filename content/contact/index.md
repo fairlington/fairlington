@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Contact Us
 summary: Contact Us
-linktitle: Contact
+linktitle: Contact Us
 weight: 50
 ---
 
