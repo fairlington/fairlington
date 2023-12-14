@@ -32,7 +32,8 @@ The chart below outlines the characteristics and floor plans of each of Fairling
 | [Fairfax I](files/fairfax_i.pdf)                     | 1020    | Bsmt   | No       | No   | 2        | 1     | No            |
 | [Fairfax II](files/fairfax_floor_plan.pdf)           | 895     | Bsmt   | No       | No   | 2        | 1     | No            |
 | Fairlington                                          | 785     | Bsmt   | No       | No   | 1        | 1     | No            |
-| [Georgetown](files/georgetown.pdf)                   | 922     | TH     | No       | No   | 2        | 1     | No            |
+| [Georgetown I](files/georgetown_i.pdf)               | 1000    | TH     | No       | No   | 2        | 1     | No            |
+| [Georgetown II](files/georgetown_ii.pdf)             | 922     | TH     | No       | No   | 2        | 1     | No            |
 | [Hermitage](files/hermitage_floor_plan.pdf)          | 1528    | Apt    | Yes      | Yes  | 1        | 2     | No            |
 | [Monticello](files/monticello_floor_plan.pdf)        | 1712    | Apt    | Yes      | Yes  | 1        | 2     | No            |
 | [Mt. Vernon](files/mt_vernon.pdf)                    | 1860    | Apt    | Yes      | Yes  | 2        | 2     | No            |
