@@ -4,7 +4,7 @@ summary: Fairlington neighbors came together to build a new playground for Abing
 slug: playground
 date: 2023-10-26T19:00:00-04:00
 aliases: ["/playground"]
-images: ["2023/10/playground/files/ch-6_6.png"]
+images: ["files/ch-6_6.png"]
 ---
 
 In 1985, the people of Fairlington did something remarkable: they built a playground together.

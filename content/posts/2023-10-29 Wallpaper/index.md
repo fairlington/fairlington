@@ -3,7 +3,7 @@ title: Fairlington's Original Wallpaper
 summary: View an artifact of an original Fairlington home.
 slug: wallpapers
 date: 2023-10-29T05:00:00-04:00
-images: ["2023/10/wallpaper/files/wallpaper1.jpg"]
+images: ["files/wallpaper1.jpg"]
 ---
 
 This piece of vinyl wallpaper was removed from the common wall in the kitchen of the townhouse (Clarendon) at 4829 27th Road South during the remodeling of the kitchen in the summer of 2011.

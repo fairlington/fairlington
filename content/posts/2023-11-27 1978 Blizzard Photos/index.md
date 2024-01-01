@@ -3,7 +3,7 @@ title: Photos of Fairlington after the 1978 Blizzard
 summary: A former FHS officer shared photos of Fairlington in the aftermath of a blizzard in 1978.
 slug: 1978 blizzard
 date: 2023-11-27T05:00:00-04:00
-images: ["2023/10/1978-blizzard/files/Court-11-Fairlington-Glen.jpg"]
+images: ["files/Court-11-Fairlington-Glen.jpg"]
 ---
 
 Former FHS officer Patty Clark shared these photos of Fairlington in the aftermath of a blizzard in 1978.

@@ -2,7 +2,7 @@
 title: Contact Us
 summary: Contact Us
 linktitle: Contact Us
-weight: 50
+weight: 60
 ---
 
 [Email Us](mailto:president@fairlingtonhistoricalsociety.org)

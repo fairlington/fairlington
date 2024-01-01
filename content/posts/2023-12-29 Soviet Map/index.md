@@ -3,7 +3,7 @@ title: Soviet Map of Fairlington
 summary: The Soviet Union produced maps of several U.S. cities during the Cold War, including DC and its environs.
 slug: soviet map
 date: 2023-12-30T06:00:00-05:00
-images: ["2023/12/soviet-map/files/soviet-map.jpg"]
+images: ["files/soviet-map.jpg"]
 ---
 
 During the Cold War, the Soviet Union used publicly available atlases, satellite information, and human intelligence to create detailed maps of many cities in the United States. Washington, DC and its environs, including Fairlington, were among those included in this mapping project. Many of these maps were sold to curious Westerners after the rapid collapse of the Soviet Union. It is now possible to view them on [redatlasbook.com](https://redatlasbook.com/).
