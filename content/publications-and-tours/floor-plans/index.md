@@ -29,16 +29,16 @@ The chart below outlines the characteristics and floor plans of each of Fairling
 | [Dominion II](files/dominion-ii.png)             | 1689  | TH     | 2    | 2     | Yes    | Yes  | No   | No           | N/A    |
 | [Edgewood](files/edgewood.png)                   | 1400  | TH     | 1    | 2     | Yes    | Yes  | No   | No           | N/A    |
 | [Essex](files/essex.png)                         | 910   | TH     | 1    | 1     | No     | No   | No   | No           | N/A    |
-| [Fairfax](files/fairfax1.png)[^1]                | 895   | Bsmt   | 2    | 1     | No     | No   | No   | No           | B      |
-| [Fairfax](files/fairfax2.png)[^1]                | 895   | Bsmt   | 2    | 1     | No     | No   | No   | No           | B      |
+| [Fairfax "I"](files/fairfax1.png)[^1]            | 1020  | Bsmt   | 2    | 1     | No     | No   | No   | No           | B      |
+| [Fairfax "II"](files/fairfax2.png)[^1]           | 895   | Bsmt   | 2    | 1     | No     | No   | No   | No           | B      |
 | [Fairlington](files/fairlington.png)             | 785   | Bsmt   | 1    | 1     | No     | No   | No   | No           | B      |
-| [Georgetown](files/georgetown1.png)[^1]          | 1000  | TH     | 2    | 1     | No     | No   | No   | No           | N/A    |
-| [Georgetown](files/georgetown2.png)[^1]          | 922   | TH     | 2    | 1     | No     | No   | No   | No           | N/A    |
+| [Georgetown "I"](files/georgetown1.png)[^1]      | 1000  | TH     | 2    | 1     | No     | No   | No   | No           | N/A    |
+| [Georgetown "II"](files/georgetown2.png)[^1]     | 922   | TH     | 2    | 1     | No     | No   | No   | No           | N/A    |
 | [Hermitage](files/hermitage.png)                 | 1528  | Apt    | 1    | 2     | Yes    | Yes  | No   | No           | B&1    |
 | [Monticello](files/monticello.png)               | 1712  | Apt    | 1    | 2     | Yes    | Yes  | No   | No           | B&1    |
 | [Mt. Vernon](files/mt-vernon.png)                | 1860  | Apt    | 2    | 2     | Yes    | Yes  | No   | No           | B&1    |
-| [Richmond](files/richmond.png)                   | 1031  | Apt    | 2    | 1     | No     | No   | No   | Yes          | 1      |
+| [Richmond](files/richmond.png)                   | 1031  | Apt    | 2    | 1     | No     | No   | No   | Yes          | 2      |
 | [Sherwood](files/sherwood.png)                   | 1200  | Apt    | 2    | 1     | No     | No   | Yes  | No           | 3      |
 | [Staunton](files/staunton.png)                   | 1121  | Apt    | 2    | 1     | No     | No   | No   | Yes          | 2      |
 
-[^1]: There are two different variations each of Fairfax and Georgetown floor plans. There many be additional undiscovered variations as well.
+[^1]: There are two different variations each of Fairfax and Georgetown floor plans. We have given them the designation "I" and "II", although they aren't identified that way on the floor plans.
