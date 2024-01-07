@@ -1,16 +1,15 @@
 ---
 title: Original Fairlington Sales Brochures
-summary: We have crisp, high-resolution scans of the renovation-era floor plans, including a couple of previously undocumented variations.
-slug: floor plans
-date: 2024-01-05T06:00:00-05:00
+summary: The original sales brochures include Fairlington floor plans, maps, pricing lists, and more.
+slug: original brochures
+date: 2024-01-07T06:00:00-05:00
 images: ["files/floor-plans.jpg"]
-draft: true
 ---
 
-A few generous residents recently gave to FHS folders of original sales material, distributed when the renovated Fairlington homes were first going up for sale in the mid-1970's. This is a treasure trove of valuable information about Fairlington.
+A few generous residents recently gave to FHS folders of original sales material, distributed when the renovated Fairlington homes were first going up for sale in the mid-1970's. This is a treasure trove of valuable information about Fairlington. Here's what the folder looks like:
 
-{{< figresize o=600x src="files/folder-outside.jpg" caption="The outside of the sales brochure folder." >}}
-{{< figresize o=600x src="files/folder-inside.jpg" caption="The inside of the sales brochure folder." >}}
+{{< imgresize o=492x src="files/folder-outside.jpg" caption="The outside of the sales brochure folder." >}}
+{{< imgresize o=492x src="files/folder-inside.jpg" caption="The inside of the sales brochure folder." >}}
 
 ## Floor Plans
 
@@ -77,7 +76,7 @@ Notably, one of the pages says:
 
 > *"Rumor has it that a couple of past Presidents, when they were in Congress, lived in Fairlington. This is unconfirmed, but perhaps someday someone will take time to pour over the thousands of rental cards still in existence."*
 
-This is the first time that FHS is hearing this rumor, but we've love to pour over those rental cards if anyone knows where they are.
+This is the first time that FHS is hearing this rumor, but we'd love to pour over those rental cards if anyone knows where they are.
 
 {{< imgresize o=492x src="files/promo-rebirth.png" >}}
 {{< imgresize o=492x src="files/promo-history.png" >}}
