@@ -6,4 +6,5 @@
     width="{{ $original.Width -}}"
     height="{{ $original.Height -}}"
     loading="lazy"
+    class="{{ with .Get "class" }}{{ . }}{{ end }}"
 />

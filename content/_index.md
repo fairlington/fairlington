@@ -23,7 +23,7 @@ h1 { display: none; }
 The Fairlington Historical Society (FHS) is an organization of Fairlingtonians, present and past, devoted to preserving the unique legacy of the community.
 
 <div class="textcenter">
-<a href="https://www.facebook.com/profile.php?id=61554812783178"><img src="/svg/Facebook.svg" height="40" width="40" alt="Facebook logo" title="Follow us on Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:president@fairlingtonhistoricalsociety.org"><img src="/svg/Email.svg" height="40" width="40" alt="Email logo" title="Email us"></a> &nbsp;&nbsp;&nbsp;<a href="posts/index.xml"><img src="/svg/RSS.svg" height="40" width="40" alt="RSS logo" title="Subscribe to our RSS feed"></a>
+<a href="https://www.facebook.com/fairlingtonhistoricalsociety"><img src="/svg/Facebook.svg" height="40" width="40" alt="Facebook logo" title="Follow us on Facebook"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:president@fairlingtonhistoricalsociety.org"><img src="/svg/Email.svg" height="40" width="40" alt="Email logo" title="Email us"></a> &nbsp;&nbsp;&nbsp;<a href="posts/index.xml"><img src="/svg/RSS.svg" height="40" width="40" alt="RSS logo" title="Subscribe to our RSS feed"></a>
 
 <h2>View the Latest Fairlington Historical Society News:</h2>
 </div>

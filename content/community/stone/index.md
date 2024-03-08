@@ -17,4 +17,4 @@ The FHS has worked to maintain the Boundary Stone site in cooperation with the N
 
 Click [here](files/About-Fairlington-Washington-Post-VA-Boundary-Stones-Road-Trip.pdf) for a road trip map of the Virginia Boundary Stones.
 
-For more information about Boundary Stone location, status, and recent news, go to [www.boundarystones.org](http://www.boundarystones.org).
+The Boundary Stone is on the National Register of Historic Places; [you can read the stone's narrative here.](https://www.dhr.virginia.gov/wp-content/uploads/2018/04/000-0022-0005_SW_No._4_Boundary_Marker_of_the_Original_District_of_Columbia_1991_Final_Nomination.pdf) [The group listing for all of the boundary stones is here.](https://npgallery.nps.gov/NRHP/GetAsset/db38eeae-0b63-4f84-aed8-cb748daa5872) For more information about Boundary Stone location, status, and recent news, go to [www.boundarystones.org](http://www.boundarystones.org).
