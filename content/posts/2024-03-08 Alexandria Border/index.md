@@ -2,7 +2,7 @@
 title: Why is part of Fairlington in Alexandria?
 summary: The county border within Fairlington has seen a surprising amount of change over the years.
 slug: alexandria
-date: 2024-02-27T06:00:00-05:00
+date: 2024-03-08T06:00:00-05:00
 images: ["files/1956-border-cropped.png"]
 ---
 
