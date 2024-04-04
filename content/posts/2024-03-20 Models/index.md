@@ -8,7 +8,7 @@ draft: true
 
 If you've lived in Fairlington for awhile, you've probably noticed a few patterns in how [the variations of Fairlington homes](/floor-plans) are distributed across the community. Maybe you've observed that North Fairlington has more shared buildings than South Fairlington. Perhaps you've also seen that South Fairlington has Clarendon I's, and North Fairlington has Clarendon II's.
 
-But did you know there's a section of North Fairlington that has Clarendon I's? Did you know that one model is so rare that there's only two of them in Fairlington?
+But did you know there's a section of North Fairlington that has Clarendon I's? Did you know that another model is so rare that there's only two of them in Fairlington?
 
 
 |               | Early | Middle | Late | Total |

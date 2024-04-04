@@ -18,4 +18,6 @@ Here's how to order your tickets:
 
 Ticket pickup: A wrist band and a Tour booklet (which includes a map and a brief description of each home) will be available for pick up on May 11 at the Fairlington Villages Community Center, starting at 10:30am. Only cash and checks accepted. (Make your check payable to Fairlington Historical Society).
 
-{{< button href="files/FHS-Home-Tour-Ticket-Order-Form-2024.docx" >}}Click Here to Download the Ticket Order Form{{< /button >}}
+{{< button href="files/FHS-Home-Tour-Ticket-Order-Form-2024.docx" >}}Click Here to Download the Ticket Order Form (Word){{< /button >}}
+<br><br>
+{{< button href="files/FHS-Home-Tour-Ticket-Order-Form-2024.pdf" >}}Click Here to Download the Ticket Order Form (PDF){{< /button >}}
