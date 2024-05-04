@@ -1,8 +1,8 @@
 ---
 title: New Historic Photos of Fairlington
 summary: Arlington Public Library's Center for Local History released new historic photos of Fairlington.
-slug: models
-date: 2024-05-03T06:00:00-05:00
+slug: historic photos
+date: 2024-05-04T06:00:00-05:00
 ---
 
 Arlington County’s Planning Office recently provided a number of historic photographs to the Arlington County Public Library’s Center for Local History. [The Bill Thomas Historic Preservation Photo Collection, 1920s-2010](https://libraryarchives.arlingtonva.us/Detail/collections/14520), documents neighborhoods, roads and highways across the county from the 1920s through the 1980s. Included in this collection are undated photos of Fairlington, likely taken shortly after Fairlington's construction. 
