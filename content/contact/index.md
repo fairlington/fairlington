@@ -5,7 +5,7 @@ linktitle: Contact Us
 weight: 60
 ---
 
-[Email Us](mailto:president@fairlingtonhistoricalsociety.org)
+Email us at [president@fairlingtonhistoricalsociety.org](mailto:president@fairlingtonhistoricalsociety.org).
 
 Or write to us at:
 
