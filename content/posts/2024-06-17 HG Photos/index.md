@@ -3,11 +3,11 @@ title: Photos from the 2024 Home and Garden Tour
 summary: Enjoy photos from the homes featured on this year's tour.
 slug: home garden photos
 date: 2024-06-17T05:00:00-04:00
-images: ["files/barcroft-a/DSC06811-Enhanced-NR.jpg"]
+images: ["files/DSC06811-Enhanced-NR.jpg"]
 booktoc: true
 ---
 
-We are so grateful to our homeowners and volunteers for making our 2024 Home and Garden Tour such a success.
+We are so grateful to our homeowners, volunteers, and sponsors for making our 2024 Home and Garden Tour such a success.
 
 Also, many thanks to talented Fairlington residents Satvik Shetty and Karnika Sharma for taking these photos of our featured homes and gardens.
 
