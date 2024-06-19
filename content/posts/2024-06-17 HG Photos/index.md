@@ -9,7 +9,7 @@ booktoc: true
 
 We are so grateful to our homeowners and volunteers for making our 2024 Home and Garden Tour such a success.
 
-Also, many thanks to Satvik Shetty and Karnika Sharma for taking these photos of our featured homes and gardens.
+Also, many thanks to talented Fairlington residents Satvik Shetty and Karnika Sharma for taking these photos of our featured homes and gardens.
 
 ## Arlington Model
 
@@ -130,3 +130,4 @@ Many thanks to Guy Land for taking these photos of the Home and Garden Tour.
 {{< imgresize o=360x src="files/event/IMG_8102.JPG" >}}
 {{< imgresize o=360x src="files/event/IMG_8107.JPG" >}}
 {{< imgresize o=360x src="files/event/IMG_8108.JPG" >}}
+{{< imgresize o=360x src="files/event/IMG_6288.jpg" >}}
