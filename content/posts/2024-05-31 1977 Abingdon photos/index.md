@@ -1,5 +1,5 @@
 ---
-title: Photos of Abingdon Elementary from 1947
+title: Photos of Abingdon Elementary from 1977
 summary: Photos were shared with us of Abingdon and the nearby tennis courts.
 slug: 1977 photos
 date: 2024-05-31T05:00:00-04:00
