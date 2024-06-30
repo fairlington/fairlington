@@ -35,7 +35,7 @@ The documents below are a small portion of what the Fairlington-related document
 
 | Date | Description | Link |
 | ---- | ----------- | ---- |
-| 1949-01 | A bulletin of the Fairlington Civic Association that announced the creation of the Fairlington Players, a theater troupe of Fairlingtonians. In 2005, they changed their name to Dominion Stage. | [Link](files/pdf/fairlington-civic-bulletin-1949-01-15.pdf) |
+| 1949-01 | A bulletin of the Fairlington Civic Association that announced the creation of the Fairlington Players, a theater troupe of Fairlingtonians. In 1989, they changed their name to Dominion Stage. | [Link](files/pdf/fairlington-civic-bulletin-1949-01-15.pdf) |
 | 1940's | An assortment of flyers from the 1940's. | [Link](files/pdf/fairlington-flyers_1940s.pdf) |
 | 1975-1976 | Flyers from the Fairlington Tenants Association, who were discontent with how the condominium conversion process was proceeding. | [Link](files/pdf/fairlington-tenants-association.pdf)  |
 | 1950 | Flyers related to a voter registration drive. | [Link](files/pdf/voter-registration-drive.pdf) |
