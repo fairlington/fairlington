@@ -16,11 +16,7 @@ The documents below are a small portion of what the Fairlington-related document
 
 | Date | Description | Link |
 | ---- | ----------- | ---- |
-| 1976-11 | The first edition of the All Fairlington Bulletin. | [Link](files/pdf/afb_1976-11.pdf) |
-| 1977-10 | The twelfth edition of the All Fairlington Bulletin. | [Link](files/pdf/afb_1977-10.pdf) |
 | 1945-1948 | Newsletters from Fairlington "Block 12," which is the area that includes South Woodrow Street, 30th Road South, and the north side of the 3000 block of South Abingdon Street. These were mostly or entirely produced by Robert E. Reynolds, a resident of South Woodrow Street and a prolific writer. | [Link](files/pdf/fairlington-block-12-newsletters.pdf) |
-| 1971-10-05 | The first edition of The Fairlingtonian newsletter in the county's archive. | [Link](files/pdf/fairlingtonian_1971-10-05.pdf) |
-| 1977-01 | The last edition of The Fairlingtonian newsletter in the county's archive. | [Link](files/pdf/fairlingtonian_1977-01.pdf) |
 | 1945-12-15 | An edition of The Fairlington News. | [Link](files/pdf/fairlington-news_1945-12-15.pdf) |
 | 1946-01-01 | An edition of The Fairlington News. | [Link](files/pdf/fairlington-news_1946-01-01.pdf) |
 | 1946-01-15 | An edition of The Fairlington News. | [Link](files/pdf/fairlington-news_1946-01-15.pdf) |
@@ -28,6 +24,10 @@ The documents below are a small portion of what the Fairlington-related document
 | 1946-03-01 | An edition of The Fairlington News. | [Link](files/pdf/fairlington-news_1946-03-01.pdf) |
 | 1946-04-01 | An edition of The Fairlington News. | [Link](files/pdf/fairlington-news_1946-04-01.pdf) |
 | 1946-05-15 | An edition of The Fairlington News. | [Link](files/pdf/fairlington-news_1946-05-15.pdf) |
+| 1971-10-05 | The first edition of The Fairlingtonian newsletter in the county's archive. | [Link](files/pdf/fairlingtonian_1971-10-05.pdf) |
+| 1976-11 | The first edition of the All Fairlington Bulletin. | [Link](files/pdf/afb_1976-11.pdf) |
+| 1977-01 | The last edition of The Fairlingtonian newsletter in the county's archive. | [Link](files/pdf/fairlingtonian_1977-01.pdf) |
+| 1977-10 | The twelfth edition of the All Fairlington Bulletin. | [Link](files/pdf/afb_1977-10.pdf) |
 | 1978-07 | The first edition of the North Fairlington News, published by Fairlington Villages. | [Link](files/pdf/north-fairlington-news_1978-07.pdf) |
 | 1981-04 | The Meadowlark, a conservation-focused newsletter from a Fairlington environmental group. | [Link](files/pdf/the-meadowlark.pdf) |
 
@@ -35,30 +35,30 @@ The documents below are a small portion of what the Fairlington-related document
 
 | Date | Description | Link |
 | ---- | ----------- | ---- |
-| 1949-01 | A bulletin of the Fairlington Civic Association that announced the creation of the Fairlington Players, a theater troupe of Fairlingtonians. In 1989, they changed their name to Dominion Stage. | [Link](files/pdf/fairlington-civic-bulletin-1949-01-15.pdf) |
 | 1940's | An assortment of flyers from the 1940's. | [Link](files/pdf/fairlington-flyers_1940s.pdf) |
-| 1975-1976 | Flyers from the Fairlington Tenants Association, who were discontent with how the condominium conversion process was proceeding. | [Link](files/pdf/fairlington-tenants-association.pdf)  |
+| 1949-01 | A bulletin of the Fairlington Civic Association that announced the creation of the Fairlington Players, a theater troupe of Fairlingtonians. In 1989, they changed their name to Dominion Stage. | [Link](files/pdf/fairlington-civic-bulletin-1949-01-15.pdf) |
 | 1950 | Flyers related to a voter registration drive. | [Link](files/pdf/voter-registration-drive.pdf) |
+| 1975-1976 | Flyers from the Fairlington Tenants Association, who were discontent with how the condominium conversion process was proceeding. | [Link](files/pdf/fairlington-tenants-association.pdf)  |
 
 ## School-Related Documents
 
 | Date | Description | Link |
 | ---- | ----------- | ---- |
-| 1940's | A flyer advocating for the inclusion of grades 4-6 in what would become Abingdon Elementary. | [Link](files/pdf/grades-4-6-expansion-survey.pdf)
-| 1950 | Parent handbook for Fairlington Elementary. | [Link](files/pdf/fairlington-elementary-handbook_1950.pdf) |
-| 1966 | Parent handbook for Fairlington Elementary. | [Link](files/pdf/fairlington-elementary-handbook_1966-1967.pdf) |
-| 1952-1979 | Various documents of the Fairlington PTA. | [Link](files/pdf/fairlington-pta-docs.pdf) |
-| 1976 | A memo about Abingdon's diversity. | [Link](files/pdf/multicultural-abingdon.pdf) |
-| 1949-01-26 | Fairlington PTA's treasurer drafted this memo upon his resignation. | [Link](files/pdf/pta-treasurer-resignation.pdf) |
 | 1947-10-20 | The results of a community-led, Fairlington-wide census to prove the need for a second elementary school in Fairlington. (Abingdon was built as a result.) | [Link](files/pdf/school-census.pdf) |
+| 1940's | A flyer advocating for the inclusion of grades 4-6 in what would become Abingdon Elementary. | [Link](files/pdf/grades-4-6-expansion-survey.pdf) |
+| 1949-01-26 | Fairlington PTA's treasurer drafted this memo upon his resignation. | [Link](files/pdf/pta-treasurer-resignation.pdf) |
+| 1950 | Parent handbook for Fairlington Elementary. | [Link](files/pdf/fairlington-elementary-handbook_1950.pdf) |
+| 1952-1979 | Various documents of the Fairlington PTA. | [Link](files/pdf/fairlington-pta-docs.pdf) |
+| 1966 | Parent handbook for Fairlington Elementary. | [Link](files/pdf/fairlington-elementary-handbook_1966-1967.pdf) |
+| 1976 | A memo about Abingdon's diversity. | [Link](files/pdf/multicultural-abingdon.pdf) |
 
 ## Promotional Material
 
 | Date | Description | Link |
 | ---- | ----------- | ---- |
 | 1940's | Promotional material for the Fairlington Association, a forerunner of today's Fairlington Citizens' Association. | [Link](files/pdf/fairlington-association-brochure.pdf) |
-| 1976 | A history of Fairlington written for America's bicentennial. | [Link](files/pdf/history-narrative-bicentennial.pdf) |
 | 1970's | Floor plans and price sheets for Fairlington units during the transition to condominiums. | [Link](files/pdf/promotional-condo.pdf) |
+| 1976 | A history of Fairlington written for America's bicentennial. | [Link](files/pdf/history-narrative-bicentennial.pdf) |
 
 ## Other
 
