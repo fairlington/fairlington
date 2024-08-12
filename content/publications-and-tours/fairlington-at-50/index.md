@@ -2,7 +2,7 @@
 title: Fairlington at 50
 summary: Order the book Fairlington at 50 from the Fairlington Historical Society.
 linktitle: Fairlington at 50
-weight: 20
+weight: 40
 ---
 
 {{< fig src="files/FairlingtonAt50Cover2012New-e1488297259655.jpg" >}}

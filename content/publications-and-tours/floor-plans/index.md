@@ -2,7 +2,7 @@
 title: Floor Plans
 summary: Floor Plans
 linktitle: Floor Plans
-weight: 50
+weight: 10
 images: ["files/clarendon-i.png"]
 ---
 

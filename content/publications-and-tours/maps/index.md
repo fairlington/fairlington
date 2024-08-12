@@ -2,7 +2,7 @@
 title: Maps
 summary: Maps
 linktitle: Maps
-weight: 10
+weight: 50
 ---
 
 {{< fig src="files/map-768x442.jpg" >}}

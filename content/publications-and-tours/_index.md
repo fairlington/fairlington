@@ -1,8 +1,7 @@
 ---
 title: Publications and Tours
 summary: Publications and Tours
-weight: 30
-bookCollapseSection: true
+weight: 10
 build:
   render: never
 ---
