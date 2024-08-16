@@ -240,6 +240,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | Miguel Ley | 1998-2001 |
 | Joanne Uyeda | 2001-2019 |
 | David Horak | 2019-2024 |
+| Edwin Acevedo | 2024-present |
 
 ### Grades present
 

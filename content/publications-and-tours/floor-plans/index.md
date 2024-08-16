@@ -1,6 +1,6 @@
 ---
-title: Floor Plans
-summary: Floor Plans
+title: Fairlington Floor Plans
+summary: Floor plans for Fairlington units
 linktitle: Floor Plans
 weight: 10
 images: ["files/clarendon-i.png"]
