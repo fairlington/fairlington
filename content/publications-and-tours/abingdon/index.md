@@ -174,7 +174,7 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | 2019-06-22 | [APS](https://web.archive.org/web/20210113110932/https://www.apsva.us/post/school-board-appoints-new-abingdon-principal/) | Abingdon hired a new principal. | |
 | 2019-12-11 | [Good Morning America](https://www.goodmorningamerica.com/living/story/stem-program-girls-rosie-riveters-list-fulfilled-amazon-67608034) | Good Morning America recorded a segment at Abingdon in which they and Amazon donated products to Abingdon. | |
 | 2022-09-20 | [Amazon](https://www.aboutamazon.com/news/community/amazon-alleviating-hunger-for-students-throughout-hq2-region) | Amazon donated money for snack baskets in Abingdon classrooms. | |
-| 2024-08-15 | [APS](https://www.apsva.us/post/school-board-appoints-new-staff-including-abingdon-elementary-school-principal/) Abingdon hired a new principal. |
+| 2024-08-15 | [APS](https://www.apsva.us/post/school-board-appoints-new-staff-including-abingdon-elementary-school-principal/) | Abingdon hired a new principal. |
 
 ## Documents
 
@@ -182,16 +182,19 @@ The documents below reveal important information about what Abingdon was like in
 
 | Date | Source | Document | Link |
 | ---- | ------ | -------- | ---- |
+| 1947-10-20 | [Arlington Library](/archive/files/25.pdf) | The results of a community-led, Fairlington-wide census to prove the need for a second elementary school in Fairlington. (Abingdon was built as a result.) | [PDF](pdf/school-census.pdf) |
+| 1940's | [Arlington Library](/archive/files/25.pdf) | A flyer advocating for the inclusion of grades 4-6 in what would become Abingdon Elementary. | [PDF](pdf/grades-4-6-expansion-survey.pdf) |
 | 1949-10-29 | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | Speeches and flyers for Abingdon's groundbreaking ceremony. | [PDF](pdf/abingdon-groundbreaking.pdf) |
 | 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Handbook for Abingdon parents. | [PDF](pdf/parent-handbook-1957-1958.pdf) |
 | 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Reports and other documents from Abingdon nurses. | [PDF](pdf/nurse-file.pdf) |
 | 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
-| 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
+| 1971-03 | [Arlington Library](/archive/files/25.pdf) | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
+| 1976 | [Arlington Library](/archive/files/25.pdf) | A memo about Abingdon's diversity. | [PDF](pdf/multicultural-abingdon.pdf) |
 | 1983-09 | Fairlington resident | A document about Abingdon found in promotional material provided by a Fairlington realtor. | [PDF](pdf/1983-09.pdf) |
 | 1985 | Fairlington resident | Pamphlets soliciting assistance in building the new Abingdon playground. | [PDF](pdf/playground-pamphlets.pdf) |
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
-| 2009-2011 | Abingdon PTA | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
+| 2009-2011 | [Abingdon PTA](https://web.archive.org/web/20230307213801/https://sites.google.com/site/abingdonpta/the-little-bird-el-parajito) | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
 
 ### Yearbooks
 
