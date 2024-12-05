@@ -197,6 +197,7 @@ The documents below reveal important information about what Abingdon was like in
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
 | 2009-2011 | [Abingdon PTA](https://web.archive.org/web/20230307213801/https://sites.google.com/site/abingdonpta/the-little-bird-el-parajito) | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
+| 2015 | Fairlington resident | A cookbook with recipes from the Abingdon community. | [PDF](pdf/ABINGDONCOOKBOOK.SP.final.nocrops.pdf) |
 
 ### Yearbooks
 
