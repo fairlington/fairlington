@@ -2,9 +2,8 @@
 title: When Kids Ruled Fairlington
 summary: A look at the number of children who lived in Fairlington over time.
 slug: children census
-date: 2025-01-01T05:00:00-05:00
+date: 2025-01-05T05:00:00-05:00
 images: ["files/1950-extract-000.png"]
-draft: true
 ---
 
 Fairlington is known for its kids. From dawn to dusk, you'll often find them on the playgrounds, pools and paths. But the number of kids you see here now, though more numerous than recent decades, is still a fraction of those who were here in Fairlington's early years. Of course, demographic trends have changed dramatically since 1950, when the country was in the midst of a baby boom.
@@ -28,14 +27,48 @@ There were also far more people living in Fairlington overall, even though the h
 
 For those of you who have noticed that there are more kids here than there used to be, you're also correct. Fairlington has seen a modest baby boom in recent years. While Fairlington has a high proportion and increasing number of babies and toddlers, it's the school-age children who have almost doubled between 2010 and 2020.
 
-https://www2.census.gov/library/publications/decennial/1950/population-volume-3/41557421v3p4ch07.pdf#page=20
-https://www2.census.gov/library/publications/decennial/1950/population-volume-3/41557421v3p4ch07.pdf#page=35
-https://www2.census.gov/library/publications/decennial/1950/population-volume-3/41557421v3p4ch07.pdf#page=44
-https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch05.pdf#page=27
-https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch05.pdf#page=81
-https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch06.pdf#page=24
-https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch06.pdf#page=67
-https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch06.pdf#page=86
-https://www2.census.gov/library/publications/decennial/1970/phc-1/39204513p22ch11.pdf#page=48
-https://www2.census.gov/library/publications/decennial/1970/phc-1/39204513p22ch11.pdf#page=98
-https://www2.census.gov/library/publications/decennial/1970/phc-1/39204513p22ch11.pdf#page=148
+{{< figresize o=492x src="files/4321 S 36th Street.jpg" caption="A mother and child outside 4321 S 36th Street in 1960 or 1961." >}}
+
+---
+
+Below are the data sources for the 1950-1970 censuses, which have a lot of other fascinating information. Census track 30 (later renumbered as 1030) corresponds to South Fairlington. Census track 29 (later renumbered as 1029) corresponds to North Fairlington, but it includes nearby areas like Shirlington and part of Claremont.
+
+### 1950 Census
+
+{{< imgresize o=492x src="files/1950-extract-000.png" alt="" >}}
+{{< imgresize o=492x src="files/1950-extract-001.png" alt="" >}}
+{{< imgresize o=492x src="files/1950-extract-002.png" alt="" >}}
+
+Sources:
+
+- https://www2.census.gov/library/publications/decennial/1950/population-volume-3/41557421v3p4ch07.pdf#page=20
+- https://www2.census.gov/library/publications/decennial/1950/population-volume-3/41557421v3p4ch07.pdf#page=35
+- https://www2.census.gov/library/publications/decennial/1950/population-volume-3/41557421v3p4ch07.pdf#page=44
+
+### 1960 Census
+
+{{< imgresize o=492x src="files/1960-extract-1-000.png" alt="" >}}
+{{< imgresize o=492x src="files/1960-extract-1-001.png" alt="" >}}
+{{< imgresize o=492x src="files/1960-extract-2-000.png" alt="" >}}
+{{< imgresize o=492x src="files/1960-extract-2-001.png" alt="" >}}
+{{< imgresize o=492x src="files/1960-extract-2-002.png" alt="" >}}
+
+Sources:
+
+- https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch05.pdf#page=27
+- https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch05.pdf#page=81
+- https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch06.pdf#page=24
+- https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch06.pdf#page=67
+- https://www2.census.gov/library/publications/decennial/1960/population-and-housing-phc-1/41953654v11ch06.pdf#page=86
+
+### 1970 Census
+
+{{< imgresize o=492x src="files/1970-extract-000.png" alt="" >}}
+{{< imgresize o=492x src="files/1970-extract-001.png" alt="" >}}
+{{< imgresize o=492x src="files/1970-extract-002.png" alt="" >}}
+
+Sources:
+
+- https://www2.census.gov/library/publications/decennial/1970/phc-1/39204513p22ch11.pdf#page=48
+- https://www2.census.gov/library/publications/decennial/1970/phc-1/39204513p22ch11.pdf#page=98
+- https://www2.census.gov/library/publications/decennial/1970/phc-1/39204513p22ch11.pdf#page=148

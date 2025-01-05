@@ -14,4 +14,6 @@ According to resident recollections, the bridge was closed to vehicle traffic in
 
 We only have one photo of the bridge, apparently an aerial photo from the 1940's, courtesy of Arlington Public Library. If anyone has any additional photos of the bridge or of other Fairlington history, we would welcome them at president@fairlingtonhistoricalsociety.org.
 
+{{< figresize o=600x src="files/N Fairlington. N end of Buchanan St at 27th Rd. 1943.png" >}}
+
 {{< fig src="files/bridge-image.jpg" >}}
