@@ -13,4 +13,7 @@ In 1950, the Fairlington was organized with the older children on the right side
 {{< fig src="files/fairlington-elementary-floor-plan.png" caption="Room layout excerpted from the Fairlington Elementary Parent’s Handbook of 1950, courtesy of the Arlington Public Library Center for Local History archives." >}}
 
 Later, an addition was put on the school to create a gymnasium – lunchroom combination. The county closed Fairlington Elementary in 1979 due to declining enrollment, and now serves as the Fairlington Community Center.
- 
+
+---
+
+**EDIT 1/5/2025**: We've added a two-page document drafted by the school in the 1970's that describes the school's history up to that point. [View it here.](files/fairlington-elementary-history.pdf)
