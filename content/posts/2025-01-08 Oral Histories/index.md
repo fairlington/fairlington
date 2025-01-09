@@ -1,6 +1,6 @@
 ---
 title: Oral Histories of Early Fairlingtonians
-summary: Read oral histories of early residents as part of Fairlington's 40th anniversary.
+summary: Read oral histories of early residents memorialized for Fairlington's 40th anniversary.
 slug: oral histories
 date: 2025-01-08T05:00:00-05:00
 booktoc: true
