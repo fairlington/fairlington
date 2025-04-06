@@ -203,6 +203,7 @@ The documents below reveal important information about what Abingdon was like in
 
 | Date | Source | Link |
 | ---- | ------ | ---- |
+| 1956-1957 | Abingdon graduate | [PDF](pdf/yearbook-1956-1957.pdf) |
 | 1957-1958 | Abingdon graduate | [PDF](pdf/yearbook-1957-1958.pdf) |
 | 1959-1960 | Abingdon Library | [PDF](pdf/yearbook-1959-1960.pdf) |
 | 1960-1961 | Abingdon Library | [PDF](pdf/yearbook-1960-1961.pdf) |
@@ -266,13 +267,15 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 
 These photos from the 1950's were found on a Facebook group called "[I grew up in Fairlington!](https://www.facebook.com/groups/381712054921)" They are the only known photos of the outside of the original school building. They also show a Halloween parade.
 
-{{< imgresize o=360x src="images/fb_1955-1957school1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
-{{< imgresize o=360x src="images/abingdon-1958-8x10.jpg" alt="A photo showing Abingdon in the 1950's." >}}
-{{< imgresize o=360x src="images/fb_1955-1957school3.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
-{{< imgresize o=360x src="images/fb_1955-1956patrols.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
-{{< imgresize o=360x src="images/fb_mid1950shalloweenparade1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
-{{< imgresize o=360x src="images/fb_mid1950shalloweenparade2.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
-{{< imgresize o=360x src="images/fb_mshefnerclass1952-1954-2-cropped.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< figresize o=736x src="images/fbscan_1953-1954_grade1_ms-wolcott.png" caption="Ms. Wolcott's 1st grade class, 1953-1954." >}}
+{{< figresize o=736x src="images/fbscan_1954-1955_grade2_ms-gleason.png" caption="Ms. Gleason's 2nd grade class, 1954-1955." >}}
+{{< figresize o=736x src="images/fb_mshefnerclass1953-1954-2-cropped.jpg" caption="Ms. Hefner's 2nd grade class, 1953-1954." >}}
+{{< figresize o=736x src="images/fb_1955-1957school3.jpg" caption="A photo of the school from the 1955-1956(?) yearbook." >}}
+{{< figresize o=736x src="images/fbscan_1956_exterior.png" caption="A photo of the school from the 1956-1957 yearbook." >}}
+{{< figresize o=736x src="images/fbscan_1957_exterior.png" caption="A photo of the school from the 1957-1958 yearbook." >}}
+{{< figresize o=736x src="images/fbscan_1956-1957_safety-patrol.png" caption="A photo of the Abingdon's Safety Patrols from the 1956-1957 yearbook." >}}
+{{< figresize o=736x src="images/fb_mid1950shalloweenparade1.jpg" caption="A photo of the Abingdon Halloween Parade from the 1950's." >}}
+{{< figresize o=736x src="images/fb_mid1950shalloweenparade2.jpg" caption="A photo of the Abingdon Halloween Parade from the 1950's." >}}
 
 ### 1970's Photo Album
 
