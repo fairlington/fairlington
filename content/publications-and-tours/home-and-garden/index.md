@@ -319,8 +319,6 @@ Many thanks to Guy Land for taking these photos of the Home and Garden Tour.
 {{< imgresize o=492x src="files/old/2005_Architecture_26.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_27.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_28.1.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_28.2.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_28.3.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_2_Edited.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_32.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_33.png" >}}
@@ -346,12 +344,6 @@ Many thanks to Guy Land for taking these photos of the Home and Garden Tour.
 {{< imgresize o=492x src="files/old/2005_Architecture_4.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_50.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_51.1.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_51.2.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_51.3.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_51.4.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_51.5.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_51.6.png" >}}
-{{< imgresize o=492x src="files/old/2005_Architecture_51.7.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_52.5.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_52.png" >}}
 {{< imgresize o=492x src="files/old/2005_Architecture_53.5.png" >}}
@@ -380,9 +372,6 @@ Many thanks to Guy Land for taking these photos of the Home and Garden Tour.
 
 
 {{< img o=492x src="files/old/2005_Architecture_29.1.png" >}}&nbsp;&nbsp;&nbsp;&nbsp;
-{{< img o=492x src="files/old/2005_Architecture_29.2.png" >}}&nbsp;&nbsp;&nbsp;&nbsp;
 {{< img o=492x src="files/old/2005_Architecture_30.1.png" >}}&nbsp;&nbsp;&nbsp;&nbsp;
-{{< img o=492x src="files/old/2005_Architecture_30.2.png" >}}&nbsp;&nbsp;&nbsp;&nbsp;
-{{< img o=492x src="files/old/2005_Architecture_30.3.png" >}}&nbsp;&nbsp;&nbsp;&nbsp;
 {{< img o=492x src="files/old/2005_Architecture_31.5.png" >}}&nbsp;&nbsp;&nbsp;&nbsp;
 {{< img o=492x src="files/old/2005_Architecture_31_Edited.png" >}}
