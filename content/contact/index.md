@@ -9,6 +9,7 @@ Email us at [president@fairlingtonhistoricalsociety.org](mailto:president@fairli
 
 Or write to us at:
 
-> Fairlington Historical Society, Inc.<br>
-> 2776 South Arlington Mill Drive, #150<br>
-> Arlington, VA 22206
+<pre><code>Fairlington Historical Society
+2776 South Arlington Mill Drive, #150
+Arlington, VA 22206
+</code></pre>
