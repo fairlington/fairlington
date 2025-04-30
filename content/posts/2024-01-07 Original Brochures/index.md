@@ -47,15 +47,21 @@ The letters on each unit are so small that they are hard to make out, even looki
 
 ## Prices
 
-Price information for Fairlington units was also included in the sales brochures. The lists we have include prices for the Villages and the Mews. It's likely that lists for other communities were produced as well.
+Price information for Fairlington units was also included in the sales brochures. The lists we have include prices for the Arbor, the Mews, and the Villages. It's likely that lists for other communities were produced as well.
 
+{{< imgresize o=492x src="files/prices-arbor" >}}
 {{< imgresize o=492x src="files/prices-mews-1975-10-03.png" >}}
 {{< imgresize o=492x src="files/prices-mews-1976-02-27.png" >}}
-{{< imgresize o=492x src="files/prices-villages.png" >}}
+{{< imgresize o=492x src="files/prices-villages-1976-07-20.png" >}}
+{{< imgresize o=492x src="files/prices-villages-1976-12-09.png" >}}
+{{< imgresize o=492x src="files/prices-villages-1977-05-30.png" >}}
+{{< imgresize o=492x src="files/prices-villages-1977-08-01.png" >}}
+{{< imgresize o=492x src="files/prices-south-fairlington.png" >}}
 
-The price lists for the Mews are dated a few months apart, and the prices for a few of the units changed between those dates — whether in response to varying demand for particular units, or due to the considerable inflation that was present in that era. (Inflation would go far higher as the 1970's came to a close.)
+Some of the price lists are dated a few months apart, and the prices for a few of the units changed between those dates — whether in response to varying demand for particular units, or due to the considerable inflation that was present in that era. (Inflation would rise far higher as the 1970's came to a close.)
 
 We also have detailed price sheets for a few individual units — Berkeley, Dominion, Georgetown, Richmond, Sherwood, and Staunton.
+- **UPDATE 2025/04/29**: we now have more price lists [available here](/floor-plans).
 
 {{< imgresize o=492x src="files/prices-berkeley.png" >}}
 {{< imgresize o=492x src="files/prices-dominion.png" >}}
