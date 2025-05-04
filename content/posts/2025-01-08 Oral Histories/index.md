@@ -1104,4 +1104,67 @@ CAROL JOHNSON: I now live in North Fairlington and have for six years, but I liv
 
 ## Peggy Wertime
 
-*Coming soon.*
+**INTERVIEWER:** This is side two, tape two, session one of an interview with Mrs. Theodore A. or Peggy Wertime W-E-R-T-I-M-E which is being conducted on the fifteenth of October 1983 at the Fairlington Community Center, Fairlington Community Complex, and the interviewer is Moreau Chambers and Peggy, we are now about to hear from you. This is now your turn.
+
+**PEGGY WERTIME:** Okay. I believe one of the most-am I close enough? One of the most vivid memories of my coming and staying in Fairlington is the fact that there were woods all across from Fairlington.
+
+**INTERVIEWER:** Across Quaker Lane.
+
+**PEGGY WERTIME:** Across Quaker Lane and also...
+
+**INTERVIEWER:** Which was not known then as Quaker but as Seminary Road.
+
+**PEGGY WERTIME:** Oh, I had forgotten that. Yes, in fact there were no buildings there at all.
+
+**INTERVIEWER**: No.
+
+**PEGGY WERTIME:** And my boys, I had four, no three at the time that we moved in, my little fellows used to go over there to go camping. And they would be in the woods so deep that I couldn't call to them so I get the cowbell and I'd go across the street and shake the cowbell because that's what I had picked up in the town I lived in before we came here. And they knew the cowbell sound so well that when we moved to S. Stafford Street, which was only two courts from the Fairlington Elementary School that they attended, I would hold the cowbell out the door and shake it. I was so embarrassed to have anybody see me, so for weeks, I don't know why I thought nobody would know it was different, I'd stand at the back door and shake the cowbell. The interesting thing is about that cowbell that when we were in Iran and my boys were visiting us during the summer...
+
+**INTERVIEWER:** And you took it with you?
+
+**PEGGY WERTIME:** I had the cowbell and we lived across the road from what was the American officer's club where they were playing tennis and it was quite a distance and there was no telephone by which I could reach them. So I got out the cowbell and shook it and they hadn't heard the cowbell sound for about fifteen years and they said "Uh-oh, Mother wants us. We'd better go home."
+
+Well, there were, where the Presbyterian and Methodist church are of course and the Bradlee shopping center was all woods. You remember that, I'm sure.
+
+**INTERVIEWER**: Oh, yes and then there was that little anti-aircraft center back of what's now Bradlee.
+
+**PEGGY WERTIME:** Oh, I didn't know that.
+
+**INTERVIEWER:** That was then Fairfax County, but it quickly became Alexandria and 1s today.
+
+**PEGGY WERTIME:** No, I didn't realize that. No. Why, another vivid memory I have is of going sledding down Utah Hill. Remember when they had the barrel there with the fire in it and we would come over and the whole neighborhood would go sledding. It was wonderful. My husband was very active along with Moreau Chambers in the Boy Scouts and the Cub Scouts, more so the Cub Scouts than the Boy Scouts, and Ted was the one of the official coaches. He was sort of a self-appointed coach, he taught all the kids in the neighborhood how to play football and baseball and one time he was training the troops, training the team and one little kid wasn't paying attention; so my husband made him run around the track around here, Fairlington School, and the little fellow found a silver dollar when he was running around. So he said to my husband, "Mr. Wertime, would you please make me run around again. I might find another silver dollar." One of my very fondest memories is..
+
+**INTERVIEWER:** Which was that? John?
+
+**PEGGY WERTIME:** No, no. Not one of our boys. One of the other teammates. One of my fondest memories is of seeing Ruth who is Moreau Chambers' wife, who lived right across from the Co-op. I always enjoyed seeing her beautiful smile there. In fact, I think Ruth is the one who told my youngest son, didn't you tell Charlie when he was carrying a suitcase full of meat that he better go home? Well, Charlie was only four years old and he decided to run away from home so he took all the meat out of the freezer and refrigerator and was walking up to the Co-op. He went past the Co-op and I think it was Ruth, maybe it was someone else who said, "What are you doing?" He said, "I'm running away from home." The lady said, "What do you have in the suitcase?" Well, he said, "I have some meat so I won't be hungry." So whoever the lady was said "I think you better take that right back home."
+
+Well, at that time hardly anybody had an automobile. I know that my husband and I couldn't afford one for the first ten years we were married. So instead of taking my car up to the Co-op, I would push the basket home and I didn't have a baby in the baby carriage and the people at the Co-op were wonderful. I'd always see Ruth on my way going and coming, we'd chat and my social life centered around the Co-op. It took me twice as long to do my grocery shopping because I'd see all my friends up there. Well, that was one of the first stores in that Shopping Center. Yes. And 1 remember when St. Clement's was being built and also when the paintings were executed on the outside of the, the murals. That's right.
+
+**INTERVIEWER:** Only one of those murals remains.
+
+**PEGGY WERTIME:** I noticed that. Yes.
+
+**INTERVIEWER:** The others weathered badly.
+
+**PEGGY WERTIME:** They have not been able to stay alive. And also I sang in the choir at the Baptist Church which is now the Sunday School. They didn't have that big, fancy church there at the time. Cub Scouts was avery important activity and another thing my husband did that was very nice for the kids in the neighborhood was to read at night. He read Sherlock Holmes and Mark Twain.
+
+**INTERVIEWER:** Aloud. That was good.
+
+**PEGGY WERTIME:** He'd read aloud and the kids from the neighborhood would come and lie down on the floor. And he'd read to them. And we had one of the Arlington units at the time so that we had a downstairs room that ordinarily would be a bedroom, but we used it as a playroom so that the kids of the neighborhood often congregated there and would even climb in and out of the windows and climb on the old piano keys. But we had... it was great fun, there were lots and lots of kids in the neighborhood. All the kids would have to do would be to go out back and they'd have somebody to play with. But it's a pity that Fairlington, that Fairmac, I guess it was still Fairlington then, administration didn't allow playground equipment to be there except for one little swing. They didn't allow any playground equipment, they had just this old bar with one swing hanging from it. You know,
+the kids made the most of that. Now, I'll have to stop and pause a minute. Do you have anything you want, I don't want to waste your tape.
+
+**INTERVIEWER:** Well, let me just... about schools.
+
+**PEGGY WERTIME:** Well, the school system was very excellent when we were here.
+
+**INTERVIEWER:** Who were the teachers, do you remember?
+
+**PEGGY WERTIME:** Oh, yes. I   do remember. Jesse C. Carpenter was the sixth grade teacher for my three oldest boys and she became the principal.
+
+**INTERVIEWER:** Who was the third grade teacher?
+
+**PEGGY WERTIME:** The third grade teacher was somebody that Steve had again in high school. Her name begins with P, I can't remember. But I remember that Jesse took a personal interest in the kids, and one day she called my son, Steve, into the office and she said Steve, "I understand you don't want to learn ballroom dancing." He said "No, I'm not particularly interested in that." Well, that very day, one of the girls, Ruth Day's daughter, invited him to a party, so he came home and said "Some girl has asked me to go to a party, but the only trouble is I don't know how to dance." So right then, in fact it was the day after that, I was given some free dancing lessons at Arthur Murrays, so I started with my husband to see if he would go with me. He wouldn't go and I went right down through the boys until I got to Steve who was in sixth grade. So he found that Jesse C., the principal at the time, who was taking a personal interest in him really helped him. And she's kept up, she keeps writing Christmas cards and she's had a great deal of influence over the boys. But one of the funny things was that they all had Union hats, this was at the time when the kids wore either Union hats or Confederate hats and they all wore their Union hats to bed; but since Jesse was a Southerner, she made them stand up and sing Dixie. The whole class had to sing Dixie; they didn't like that too much.
+
+But it was a very tightly knit community. People helped each other. We babysat for each other. In fact, my second son Dick, insisted upon going to see the movie called "The Thing". I never did see it myself. It was supposed to be a very scary thing. But he left in the middle of it and came running home; oh he was a little kid. We had said "You can't go" but when my husband and I went to the movies, he went out to see it. So he was
+
+*The transcript simply says "END OF TAPE" here. We do not know if there is a record of the interview continuing.*
