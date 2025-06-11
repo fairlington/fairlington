@@ -2,7 +2,7 @@
 title: Watch the Fairlington Episode of WETA's "If You Lived Here."
 summary: WETA has shared the episode on their website.
 slug: weta episodes
-date: 2025-04-29T05:00:00-05:00
+date: 2025-04-29T05:00:00-04:00
 ---
 
 Earlier this year, local PBS affiliate WETA produced an episode of their program "If You Lived Here" about neighborhoods in South Arlington. The episode included a home in Fairlington, as well as a home in Claremont and a condominium on Four Mile Run Drive. The episode features the Fairlington Historical Society's very own president, Beth Hoffman, speaking about Fairlington's history.

@@ -2,7 +2,7 @@
 title: Watch Party for If You Lived Here
 summary: Come join us for a watch party for WETA's "If You Lived Here."
 slug: watch party
-date: 2025-03-21T05:00:00-05:00
+date: 2025-03-21T05:00:00-04:00
 ---
 
 **UPDATE** - Sold out!
