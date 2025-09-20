@@ -3,7 +3,7 @@ title: Tickets Are On Sale for the Home and Garden Tour
 summary: Buy tickets by mail or in person for the Tour on Saturday, May 11, 2024.
 slug: home garden
 date: 2024-03-19T21:00:00-04:00
-# images:
+categories: ["Home and Garden Tour"]
 ---
 
 Tickets for the Fairlington Home and Garden are now on sale. This year's tour will feature 11 homes in both North and South Fairlington that showcase some incredible renovations, great decorating ideas and a variety of unit models. We'll have some lovely gardens included too. Tickets are $15 each and benefit the Fairlington Historical Society.

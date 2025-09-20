@@ -3,7 +3,8 @@ title: 75th Anniversary Lookback — Celebrations and Activities
 summary: Celebrations and activities have always been an important part of the Fairlington community.
 slug: lookback celebrations activities
 date: 2018-08-01T07:00:00-04:00
-categories: ["75th anniversary lookback"]
+categories: ["Articles"]
+tags: ["75th Anniversary Lookback"]
 ---
 
 *This 75th Anniversary lookback article originally ran in the [August 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/august_2018_afb.pdf#page=9).*

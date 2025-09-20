@@ -5,6 +5,7 @@ slug: playground
 date: 2023-10-26T19:00:00-04:00
 aliases: ["/playground"]
 images: ["files/ch-6_6.png"]
+categories: ["Articles"]
 ---
 
 In 1985, the people of Fairlington did something remarkable: they built a playground together.

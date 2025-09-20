@@ -3,7 +3,8 @@ title: 75th Anniversary Lookback — Feeding Fairlington
 summary: During World War II, Fairlington residents had be creative about feeding their families.
 slug: lookback feeding fairlington
 date: 2018-10-01T07:00:00-04:00
-categories: ["75th anniversary lookback"]
+categories: ["Articles"]
+tags: ["75th Anniversary Lookback"]
 ---
 
 *This 75th Anniversary lookback article originally ran in the [October 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/october_2018_afb.pdf#page=9).*

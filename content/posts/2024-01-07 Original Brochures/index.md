@@ -4,6 +4,7 @@ summary: The original sales brochures include Fairlington floor plans, maps, pri
 slug: original brochures
 date: 2024-01-07T06:00:00-05:00
 images: ["files/floor-plans.jpg"]
+categories: ["Documents"]
 ---
 
 A few generous residents recently gave to FHS folders of original sales material, distributed when the renovated Fairlington homes were first going up for sale in the mid-1970's. This is a treasure trove of valuable information about Fairlington. Here's what the folder looks like:

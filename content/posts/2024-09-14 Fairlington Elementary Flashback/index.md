@@ -4,6 +4,7 @@ summary: We have a floor plan of Fairlington Elementary in its first years.
 slug: fairlington elementary flashback
 date: 2024-09-14T05:00:00-04:00
 images: ["files/fairlington-elementary-floor-plan.png"]
+categories: ["Articles"]
 ---
 
 Did you know the Fairlington Community Center served as Fairlington’s only elementary school until 1950, when Abingdon Elementary opened to ease crowding at Fairlington? In September of 1942, the Arlington School Board applied for a grant from the Federal Works Agency – and was given $190,000 for an elementary school. The school was finally finished in 1944 and served grades 1-6. With no cafeteria, Fridays became “hot dog days” with Fairlington mothers taking turns to cook hot dogs and bring them for the students’ lunch.

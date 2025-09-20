@@ -4,6 +4,7 @@ summary: Newsletters, flyers, and other documents from Fairlington's first days 
 slug: documents
 date: 2024-06-30T05:00:00-04:00
 images: ["files/images/key-dept.jpg"]
+categories: ["Documents"]
 ---
 
 The Fairlington Historical Society has scanned several documents that help tell the story of Fairlington's first days. These documents have been preserved by the Arlington Public Library in their archives, and are available for review upon request.

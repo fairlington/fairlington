@@ -4,6 +4,7 @@ summary: Photos submitted by a former resident of childhood on South Utah Street
 slug: utah photos
 date: 2024-12-17T05:00:00-05:00
 images: ["files/03.png"]
+categories: ["Photos"]
 ---
 
 Photos submitted by Robert Bernette, who lived at 3456B S Utah St. (and briefly at 3029 S Columbus St.). Most photos are taken on and around South Utah Street.

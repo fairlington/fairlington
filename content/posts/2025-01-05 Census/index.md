@@ -4,6 +4,7 @@ summary: A look at the number of children who lived in Fairlington over time.
 slug: children census
 date: 2025-01-05T05:00:00-05:00
 images: ["files/1950-extract-000.png"]
+categories: ["Articles"]
 ---
 
 Fairlington is known for its kids. From dawn to dusk, you'll often find them on the playgrounds, pools and paths. But the number of kids you see here now, though more numerous than recent decades, is still a fraction of those who were here in Fairlington's early years. Of course, demographic trends have changed dramatically since 1950, when the country was in the midst of a baby boom.

@@ -4,6 +4,7 @@ summary: Photos were shared with us of life in Fairlington in its first years.
 slug: 1947 photos
 date: 2024-06-01T05:00:00-04:00
 images: ["files/1947-1.png"]
+categories: ["Photos"]
 ---
 
 Karen Coe shared these photos with us, with the following comment:

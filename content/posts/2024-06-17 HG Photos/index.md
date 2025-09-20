@@ -5,6 +5,7 @@ slug: home garden photos
 date: 2024-06-17T05:00:00-04:00
 images: ["files/DSC06811-Enhanced-NR.jpg"]
 booktoc: true
+categories: ["Home and Garden Tour"]
 ---
 
 We are so grateful to our homeowners, volunteers, and sponsors for making our 2024 Home and Garden Tour such a success.

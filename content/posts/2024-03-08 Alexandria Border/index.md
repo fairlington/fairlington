@@ -4,6 +4,7 @@ summary: The county border within Fairlington has seen a surprising amount of ch
 slug: alexandria
 date: 2024-03-08T06:00:00-05:00
 images: ["files/1956-border-cropped.png"]
+categories: ["Articles"]
 ---
 
 Though most of Fairlington is in Arlington County, a small portion of Fairlington has been outside of Arlington since Fairlington was built. This seems odd to many people, as King Street would seem to be a natural boundary between jurisdictions, and all of Fairlington is north and east of King Street. How did part of Fairlington end up in Alexandria?

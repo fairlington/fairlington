@@ -3,7 +3,8 @@ title: 75th Anniversary Lookback — Fairlington at Play
 summary: Children had to improvise play areas in Fairlington's early years.
 slug: lookback fairlington play
 date: 2018-06-01T07:00:00-04:00
-categories: ["75th anniversary lookback"]
+categories: ["Articles"]
+tags: ["75th Anniversary Lookback"]
 ---
 
 *This 75th Anniversary lookback article originally ran in the [June 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/june_2018_afb.pdf#page=19).*

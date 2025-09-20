@@ -3,7 +3,8 @@ title: 75th Anniversary Lookback — Getting Around Fairlington
 summary: Transportation to and from Fairlington was infrequent and inconvenient in the community's early days.
 slug: lookback getting around
 date: 2018-07-01T07:00:00-04:00
-categories: ["75th anniversary lookback"]
+categories: ["Articles"]
+tags: ["75th Anniversary Lookback"]
 ---
 
 *This 75th Anniversary lookback article originally ran in the [July 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/july_2018_afb.pdf#page=11).*

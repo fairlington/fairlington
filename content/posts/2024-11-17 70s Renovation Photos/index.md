@@ -4,6 +4,7 @@ summary: View photos taken during the 1970's renovation.
 slug: 1970s renovation photos
 date: 2024-11-17T05:00:00-05:00
 images: ["files/05.png"]
+categories: ["Photos"]
 ---
 
 These photos were taken inside and outside of 3049 S Buchanan St B-2 in August 1976 while the unit was being renovated.

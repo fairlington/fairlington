@@ -3,7 +3,8 @@ title: 75th Anniversary Lookback — Where Fairlingtonians Go
 summary: Fairlington families didn't always have so many amenities close by.
 slug: lookback where fairlingtonians go
 date: 2018-09-01T07:00:00-04:00
-categories: ["75th anniversary lookback"]
+categories: ["Articles"]
+tags: ["75th Anniversary Lookback"]
 ---
 
 *This 75th Anniversary lookback article originally ran in the [September 2018 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/september_2018_afb.pdf#page=9).*

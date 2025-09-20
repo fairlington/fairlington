@@ -4,6 +4,7 @@ summary: A history of schools in Fairlington.
 slug: two schools
 date: 2023-12-11T21:00:00-04:00
 images: ["files/Ch 6_19.png"]
+categories: ["Articles"]
 ---
 
 *Note: This article was featured in the [November 2023 edition of the All Fairlington Bulletin](http://www.fca-fairlington.org/wp-content/uploads/november_2023_afb.pdf#page=25).*

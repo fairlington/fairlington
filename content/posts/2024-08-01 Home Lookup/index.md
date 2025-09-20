@@ -4,6 +4,7 @@ summary: Find out who lived in your home before you.
 slug: documents
 date: 2024-08-01T05:00:00-04:00
 images: ["files/enumeration-districts-fairlington.jpg"]
+categories: ["Articles"]
 ---
 
 Are you curious about who lived in your home before you? It's easy to look up your predecessors' names and learn more about them.

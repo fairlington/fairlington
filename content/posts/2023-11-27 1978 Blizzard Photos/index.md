@@ -4,6 +4,7 @@ summary: A former FHS officer shared photos of Fairlington in the aftermath of a
 slug: 1978 blizzard
 date: 2023-11-27T05:00:00-04:00
 images: ["files/Court-11-Fairlington-Glen.jpg"]
+categories: ["Photos"]
 ---
 
 Former FHS officer Patty Clark shared these photos of Fairlington in the aftermath of a blizzard in 1978.

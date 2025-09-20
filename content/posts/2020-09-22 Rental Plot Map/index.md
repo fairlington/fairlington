@@ -3,6 +3,7 @@ title: Fairlington Rental Plot Map
 summary: An early map of Fairlington is now available for purchase in 36” X 24” poster format.
 slug: rental plot map
 date: 2020-09-22T07:00:00-04:00
+categories: ["Documents"]
 ---
 
 {{< figresize o=600x src="files/map-1.jpg" >}}

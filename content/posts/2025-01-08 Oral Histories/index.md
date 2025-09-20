@@ -5,6 +5,7 @@ slug: oral histories
 date: 2025-01-08T05:00:00-05:00
 booktoc: true
 # images: ["files/1950-extract-000.png"]
+categories: ["Oral Histories"]
 ---
 
 On the occasion of Fairlington’s 40th anniversary, a number of oral histories were taken on October 13, 1983 by Moreau Chambers – an early Fairlingtonian himself – to record the history of Fairlington in the 1940s.  These oral interviews were conducted in what was the Fairlington School – now the Fairlington Community Center on South Stafford Street. The interviews were sponsored by the Zonta Club of Arlington, and the original manuscripts are housed in the Arlington County Center for Local History.

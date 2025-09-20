@@ -3,6 +3,7 @@ title: Notable Fairlingtonians
 summary: Here is a list of notable Fairlingtonians we've compiled so far.
 slug: notable fairlingtonians
 date: 2025-08-31T08:00:00-04:00
+categories: ["Notable Residents"]
 ---
 
 Here is a list of notable Fairlingtonians we've compiled so far. If you know any more, please reach out to president@fairlingtonhistoricalsociety.org.
