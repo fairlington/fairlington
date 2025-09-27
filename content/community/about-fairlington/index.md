@@ -5,6 +5,8 @@ linktitle: About Fairlington
 weight: 10
 ---
 
+# About Fairlington
+
 {{< figfit o=600x600 src="files/Fair-Map-810x1024.png" >}}
 
 > *“Designed in the Colonial Revival style by Kenneth Franzheim and Alan B. Mills and constructed between 1942 and 1944, Fairlington is an early example of successful community planning and large-scale, publicly financed rental housing built for defense workers and their families during World War II. With 3,439 garden apartments, Fairlington was the largest project financed by Defense Homes Corporation (a component of the National Housing Agency) and the nation’s largest apartment complex at that time. The units were renovated and sold as condominiums between 1972 and 1977. The name Fairlington combines Fairfax and Arlington, the counties in which the project was located.”*

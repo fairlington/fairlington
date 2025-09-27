@@ -1,10 +1,12 @@
 ---
 title: Home and Garden
-summary: Home and Garden
+summary: Home and Garden Tour
 linktitle: Home and Garden
 weight: 20
 booktoc: true
 ---
+
+# Home and Garden Tour
 
 FHS’ biennial Home and Garden Tour is one of the community’s most popular events. In May of odd-numbered years, the tour features some of the neighborhood’s most inventively renovated and beautifully decorated homes and patios. The photos in this gallery are from several past home tours and are organized by model type. We hope that these give you an idea of the many possibilities for designed living in Fairlington homes.
 

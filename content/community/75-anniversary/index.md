@@ -5,6 +5,8 @@ linktitle: 75th Anniversary
 weight: 10
 ---
 
+# 75th Anniversary
+
 {{< figresize o=600x src="files/75-Banner-r1.jpg" >}}
 
 In 2018, the Fairlington Citizens Association (FCA) and the Fairlington Historical Society (FHS) collaborated on the celebration of the community’s 75th anniversary. The ‘Now and Then’ articles below were authored by FHS and published throughout the year in FCA’s monthly newsletter, the *All Fairlington Bulletin*.

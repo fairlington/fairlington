@@ -5,6 +5,8 @@ linktitle: Donate
 weight: 50
 ---
 
+# Donate to FHS
+
 FHS accepts open-ended donations at all times, using the following methods:
 
 {{< tabs "donate" >}}

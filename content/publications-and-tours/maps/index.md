@@ -5,6 +5,8 @@ linktitle: Maps
 weight: 50
 ---
 
+# Maps
+
 {{< fig src="files/map-768x442.jpg" >}}
 
 ## Fairlington Architect’s Map Reproduction

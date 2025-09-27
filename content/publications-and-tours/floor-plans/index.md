@@ -6,6 +6,8 @@ weight: 10
 images: ["files/clarendon-i.png"]
 ---
 
+# Fairlington Floor Plans
+
 The chart below outlines the characteristics and floor plans of each of Fairlington's models.
 
 | Model                                            | Sq Ft | Apt/TH | Beds | Baths | Rec Rm | Den  | Loft | Bsmt Storage | Floors | Original Prices[^1] |

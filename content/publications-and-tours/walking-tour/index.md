@@ -5,6 +5,8 @@ linktitle: Walking Tour
 weight: 30
 ---
 
+# Walking Tour
+
 {{< button href="files/14559-Fairlington-Walking-tour-broch-v6.pdf" >}}Download the Walking Tour Brochure here{{< /button >}}
 
 **1. Historic Markers**  

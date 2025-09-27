@@ -6,6 +6,8 @@ slug: about fhs
 weight: 10
 ---
 
+# About FHS
+
 The Fairlington Historical Society (FHS) is an organization of Fairlingtonians, present and past, devoted to preserving the unique legacy of the community.
 
 Organized in 2000, the FHS succeeded the Fairlington Historic Designation Committee, which had pursued and achieved Historic District status for Fairlington and placement on the Virginia Landmarks Register (December 1998) and on the National Register of Historic Places (March 1999). The application to these registers, which describes many of Fairlington's historic qualities, [is available here](files/nomination.pdf).

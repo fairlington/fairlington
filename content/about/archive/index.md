@@ -6,6 +6,8 @@ slug: archives
 weight: 30
 ---
 
+# Archive and Artifacts
+
 {{< fig src="files/archive.jpg" >}}
 
 The FHS archive was designed by Board of Trustees member and Certified Archivist, Ruth Kerns. The “Fairlington Collection” is located at the Center for Local History at the Arlington County Public Library (1015 North Quincy Street, Arlington, VA). The collection currently includes records of the Historic Designation Committee and those of FHS.

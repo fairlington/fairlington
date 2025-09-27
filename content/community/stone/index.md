@@ -5,6 +5,8 @@ linktitle: Boundary Stone
 weight: 40
 ---
 
+# Boundary Stone
+
 {{< fig src="files/About-Fairlington-2012-Clean-Up-Team.jpg" >}}
 
 Fairlington is the home of Southwest #4, one of 40 milepost stones that mark the original District of Columbia. Located at King Street, between Wakefield and the entrance ramp to I-395, Boundary Stone Southwest #4 was placed in 1791. In an inspection more than a century later, in 1897, the stone was reported to be in much the same condition as it appears today: “*broken off at the ground… The stump, plow-scratched is in place, standing in the field north of the road and about four feet from the fence*.”

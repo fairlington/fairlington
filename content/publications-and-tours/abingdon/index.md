@@ -7,6 +7,8 @@ weight: 60
 booktoc: true
 ---
 
+# Abingdon Elementary History
+
 <img src="images/fb_1955-1957school3-cropped.jpg" alt="Original Abingdon school building" height="336" width="736" >
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
@@ -221,7 +223,7 @@ The documents below reveal important information about what Abingdon was like in
 
 ### Renovations and Additions
 
-If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the building has been added on to many times.
+If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the building has had many additions.
 
 | Year | Added |
 | ---- | ----- |

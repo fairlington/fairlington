@@ -5,6 +5,8 @@ linktitle: FHS Business
 weight: 40
 ---
 
+# FHS Business
+
 ## Charter
 
 [See our charter here.](/charter)

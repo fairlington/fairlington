@@ -5,15 +5,15 @@ url: /charter/
 linktitle: FHS Charter
 ---
 
+# Fairlington Historical Society Charter
+
+#### Revised June 30, 2023
+
 <style type="text/css">
 ol { list-style-type: upper-alpha; }
 ol ol { list-style-type: decimal; }
 ol ol ol { list-style-type: lower-alpha; }
 </style>
-
-## Fairlington Historical Society Charter
-
-#### Revised June 30, 2023
 
 I. **Purpose**
 

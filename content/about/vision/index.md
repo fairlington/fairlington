@@ -5,6 +5,8 @@ linktitle: Vision and Mission
 weight: 20
 ---
 
+# Vision and Mission
+
 The Fairlington Historical Society’s vision is:
 
 - To serve as the recognized source of information, awareness, education, and advocacy in order to preserve and protect the unique character of all seven Fairlington villages.

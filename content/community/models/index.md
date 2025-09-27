@@ -5,6 +5,8 @@ linktitle: Community Models
 weight: 50
 ---
 
+# Community Models
+
 {{< figresize o=600x src="files/ch-4-19.png" >}}
 
 The three-dimensional models of the Fairlington community used in the sales office in the 1970’s have been conserved and are on display at the Fairlington Community Center (3308 South Stafford Street).
