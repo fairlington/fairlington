@@ -1,12 +1,18 @@
 ---
-title: Notable Fairlingtonians
-summary: Here is a list of notable Fairlingtonians we've compiled so far.
+title: Famous Fairlingtonians: Past & Present
+summary: We are sharing a list of notable Fairlingtonians that we will continue to update.
 slug: notable fairlingtonians
 date: 2025-08-31T08:00:00-04:00
 categories: ["Notable Residents"]
 ---
 
-Here is a list of notable Fairlingtonians we've compiled so far. If you know any more, please reach out to president@fairlingtonhistoricalsociety.org.
+Fairlington may be a quiet neighborhood, but it has its share of notable names! From politicians and artists to journalists and change-makers, our tree-lined streets have been home to some remarkable individuals over the years.
+
+This list is a work in progress—and that’s where *you* come in. If you know of a famous (or even semi-famous!) current or former Fairlington resident, or if you spot any errors or omissions, we’d love to hear from you. Drop us a note and help us keep this list growing!  Email us at: president@fairlingtonhistoricalsociety.org.
+
+Thanks!
+
+---
 
 **Jim Bregman** (born 11/17/41)-- Olympian, on the first American team to compete in judo at the 1964 Summer Olympics in Tokyo. (went to Fairlington Elementary, but did not live here.)
 
@@ -47,3 +53,7 @@ Here is a list of notable Fairlingtonians we've compiled so far. If you know any
 **[William West](https://en.wikipedia.org/wiki/William_West_(equestrian))** (7/15/87 -- 9/15/53) -- Equestrian who competed in three events in the 1920 Summer Olympics in Antwerp.
 
 **[Heather Wilson](https://en.wikipedia.org/wiki/Heather_Wilson)** ( Born 12/30/60) -- (4284 S 35^th^ St -- Fairlington Glen) Current President of the University of Texas -- El Paso. She served as the 24th Secretary of the Air Force (2017 to 2019); prior to that she was a member of the U.S. House of Representatives (1998 to 2009), representing New Mexico's 1^st^ Congressional District. From 1989 to 1991, Wilson served on the National Security Council staff as director for defense policy and arms control for President George H.W. Bush during the fall of the Berlin Wall and the collapse of the Warsaw Pact.
+
+---
+
+Have an addition to the list or a correction? Email us at: president@fairlingtonhistoricalsociety.org

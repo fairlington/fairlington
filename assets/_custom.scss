@@ -19,8 +19,14 @@
 }
 figure {
     text-align: center;
+    img {
+        display: block;
+    }
+    figcaption {
+        margin-top: $padding-1 !important;
+    }
     figcaption p {
         font-size: 0.875em;
-        color: var(--gray-700);
+//        color: var(--gray-700);
     }
 }
