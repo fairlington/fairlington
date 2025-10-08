@@ -11,3 +11,12 @@ FHS is celebrating Historic Preservation Month with a community talk on the hist
 {{< button href="https://www.eventbrite.com/e/built-to-last-understanding-the-materials-of-fairlington-tickets-1363004797039" >}}Click Here to Register for the Presentation{{< /button >}}
 <br><br>
 {{< img src="files/flyer.jpg" alt="" >}}
+
+**EDIT**:
+
+Thank you to all of the attendees!
+
+{{< imgresize o=492x src="files/FHSwithJulie.png" alt="" >}}
+{{< imgresize o=492x src="files/Julie-and-Beth.png" alt="" >}}
+{{< imgresize o=492x src="files/Julieshowingslate.png" alt="" >}}
+{{< imgresize o=492x src="files/roomphoto.png" alt="" >}}

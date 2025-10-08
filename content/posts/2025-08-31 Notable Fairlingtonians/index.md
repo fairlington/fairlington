@@ -1,5 +1,5 @@
 ---
-title: Famous Fairlingtonians: Past & Present
+title: Famous Fairlingtonians — Past & Present
 summary: We are sharing a list of notable Fairlingtonians that we will continue to update.
 slug: notable fairlingtonians
 date: 2025-08-31T08:00:00-04:00

@@ -11,3 +11,10 @@ Join us, Monday, September 29th for a presentation on the history of South Arlin
 {{< button href="https://www.eventbrite.com/e/back-in-the-day-south-arlington-tickets-1696078940769" >}}Click Here to Register for the Presentation{{< /button >}}
 <br><br>
 {{< img src="files/flyer.jpg" alt="" >}}
+
+**EDIT**:
+
+Thank you to all of the attendees!
+
+{{< imgresize o=492x src="files/PXL_20250929_231457485.jpg" alt="" >}}
+{{< imgresize o=492x src="files/PXL_20250929_231513219.jpg" alt="" >}}
