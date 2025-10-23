@@ -21,7 +21,7 @@ params:
 #  fb: FairlingtonHistoricalSociety
   title: Fairlington Historical Society
   BookSection: '*'
-  booktoc: false
+  booktoc: true
 
 permalinks:
   docs: /:sections[1:]/:contentbasename/
