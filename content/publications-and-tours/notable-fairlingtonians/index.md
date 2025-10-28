@@ -1,10 +1,12 @@
 ---
-title: Famous Fairlingtonians — Past & Present
+title: Famous Fairlingtonians
 summary: We are sharing a list of notable Fairlingtonians that we will continue to update.
 slug: notable fairlingtonians
-date: 2025-08-31T08:00:00-04:00
-categories: ["Notable Residents"]
+weight: 60
+aliases: ['/2025/08/notable-fairlingtonians/']
 ---
+
+# Famous Fairlingtonians
 
 Fairlington may be a quiet neighborhood, but it has its share of notable names! From politicians and artists to journalists and change-makers, our tree-lined streets have been home to some remarkable individuals over the years.
 
