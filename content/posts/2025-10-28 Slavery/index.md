@@ -65,7 +65,7 @@ After John Carlyle's death, the farm was passed to his nephew, Carlyle Whiting. 
 
 {{<figresize o=720x src="files/1787-10-18.png" caption="From the October 18, 1787 edition of the Alexandria Gazette." >}}
 
-In the years that followed, whiting published several ads in the Alexandria Gazette seeking the return of enslaved persons.
+In the years that followed, Whiting published several ads in the Alexandria Gazette seeking the return of enslaved persons.
 
 {{<fig src="files/1803-09-23.png" caption="From the September 23, 1803 edition of the Alexandria Gazette.">}}
 {{<fig src="files/1804-08-30.png" caption="From the August 30, 1804 edition of the Alexandria Gazette.">}}
