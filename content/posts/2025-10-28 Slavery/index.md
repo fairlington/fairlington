@@ -7,11 +7,15 @@ images: ["files/1811-12-09.png"]
 categories: ["Articles"]
 ---
 
+### Introduction
+
 Slavery was widespread in antebellum Northern Virginia. In Arlington and Alexandria, which were then both part of Alexandria, there were 1,386 enslaved people documented by the 1860 census.[^1] Alexandria was home to one of the largest slave-trading operations in the country.[^2]
 
 The area we now know as Fairlington was no exception. [This widely-used interpretative historical map by Beth Mitchell](files/fairfax1760.jpg)[^3] shows that John Carlyle owned this land, and that based on court records there were estimated to be 27 enslaved persons working there. The farm there was called Torthorwald, but would later be renamed Morven.[^4] The residence at Morven was located at what is now South 31st and Columbus Streets, approximately where the building for 4820-4850 31st Street South presently stands, and/or on the area in front of it.[^loc] A cropped section of the map is below, with Torthorwald/Morven in the center, bounded by Four Mile Run to its north.
 
 {{<imgresize o=992x src="files/fairfax-cropped.jpg" alt="">}}
+
+### 1780 Inventory
 
 A detailed inventory of Carlyle's assets at the time of his death in 1780 also provide a glimpse into slavery at the estate.[^5] 43 enslaved persons were listed among assets like books and furniture to be passed along to heirs.[^6] Their names were:
 
@@ -61,7 +65,9 @@ A detailed inventory of Carlyle's assets at the time of his death in 1780 also p
 
 {{<imgresize o=992x src="files/007644611_00225.jpg" alt="">}}
 
-After John Carlyle's death, the farm was passed to his nephew, Carlyle Whiting. There is ample evidence that slavery continued during his tenure. For example, Whiting published an advertisement in the Alexandria Gazette in 1787 that listed the farm's assets, including "eight Negro tithables." These were enslaved adults; there likely would have been additional enslaved children.
+### Newspaper ads
+
+After John Carlyle’s death, the farm was passed to his grandson, Carlyle Fairfax Whiting. There is ample evidence that slavery continued during his tenure. For example, Whiting published an advertisement in the Alexandria Gazette in 1787 that listed the farm's assets, including "eight Negro tithables." These were enslaved adults; there likely would have been additional enslaved children.
 
 {{<figresize o=720x src="files/1787-10-18.png" caption="From the October 18, 1787 edition of the Alexandria Gazette." >}}
 
@@ -83,9 +89,74 @@ Charles Whiting inherited Morven upon his father's death in the early 1830s. In 
 
 {{<fig src="files/1837-09-02.png" caption="From the September 2, 1837 edition of the Alexandria Gazette.">}}
 
-This was the last known mention of slavery on the Morven estate. Most enslaved people in Alexandria (including the area we now know as Arlington) gained some freedom through the Confiscation Acts of 1861 and 1862.[^7] The Emancipation Proclamation definitively freed the enslaved in Alexandria in 1863.[^7]
+### 1794 Auction
 
-{{<fig src="files/Morven.png" caption="Morven, taken in the 1930s. It was razed when Fairlington was constructed.">}}
+Following John Carlyle's death, some enslaved persons were auctioned off rather than inherited outright in order to satisfy debts against the estate. We identified a list of these individuals, and have listed the names below.[^8]
+
+{{<figresize o=720x src="files/1794-deed.png">}}
+
+1. Nat Cooke
+1. James
+1. Pollyhus
+1. Sinah
+1. Rose
+1. Nell
+1. Suk
+1. Nan
+1. Natt
+1. Piercey
+1. Sall
+1. Jean
+1. Peter
+1. Charles
+1. Sarah
+1. Sam
+
+It is not known how many of these individuals were enslaved at Tortherwald/Morven rather than Carlyle's other properties. Some of these individuals were likely the same as those who were listed on the 1780 inventory.
+
+### 1816 Will
+
+An 1816 will from an executor of John Carlyle's estate tallies the revenue generated from renting individuals who had been enslaved by Carlyle. The revenue was then paid to Carlyle's grandson and one of his heirs, Carlyle Fairfax Whiting. This document demonstrates how frequently enslaved people were moved between different plantations and estates, and how difficult it must have been to maintain a semblence of a family unit among them. It also makes perfectly clear that enslavers benefitted financially from their labor.
+
+Note that "Natt Cooke" is listed on this document as being rented out in 1783 "to learn the Coopers trade." We imagine that this is the same "Natt Cook" who was advertised as having escaped in 1804 "with some cooper's tools."
+
+The will documents, and a list of the enslaved on those documents, are below.[^9]
+
+{{<figresize o=720x src="files/1816-will-1.png">}}
+{{<figresize o=720x src="files/1816-will-2.png">}}
+{{<figresize o=720x src="files/1816-will-3.png">}}
+
+1. Natt Cook
+1. Sam
+1. Sarah
+1. Jane
+1. Dinah
+1. James
+1. Sall
+1. Rose
+1. Polepus
+1. Suck
+1. Barbara
+1. Hannah
+1. George
+1. Dennis
+1. Nan
+1. Charles
+1. Sall
+1. Pompey
+1. Cyrus
+1. Judy
+1. Amey
+1. Smart
+1. Sampson
+1. Polipus
+1. Peter
+
+### Conclusion
+
+Most enslaved individuals in Alexandria (which included the area we now know as Arlington) gained some freedom through the Confiscation Acts of 1861 and 1862.[^7] The Emancipation Proclamation definitively freed the enslaved in Alexandria in 1863.[^7]
+
+{{<fig src="files/Morven.png" caption="Morven, as photographed in the 1930s. It was razed when Fairlington was constructed.">}}
 
 [^1]: 1860 census data. https://www2.census.gov/library/publications/decennial/1860/population/1860a-36.pdf#page=17
 [^2]: "History of Alexandria’s African American Community." https://www.alexandriava.gov/historic-alexandria/history-of-alexandrias-african-american-community
@@ -94,4 +165,6 @@ This was the last known mention of slavery on the Morven estate. Most enslaved p
 [^4]: Alexandria Times, April 17, 2008. https://media.alexandriava.gov/docs-archives/historic/info/attic/2008/attic20080417torthorwald.pdf
 [^5]: "Fairfax, Virginia, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3QS7-89PC-2G77?view=explore : Oct 24, 2025), image 225 of 252; Image Group Number: 007644611
 [^6]: Our gratitude to Memorializing the Enslaved in Arlington for identifying these individuals and the source record. https://enslavedarl.org/s/memorializing-the-enslaved-in-arlington/item/35456
+[^8]: This record was obtained from the Fairfax County Circuit Court Historic Records Center. Fairfax Deed Book X-1, page 243.
+[^9]: This record was obtained from the Fairfax County Circuit Court Historic Records Center. Fairfax Will Book L-1, pages 31-33.
 [^7]: "Community: The Race to Freedom." https://www.alexandriava.gov/cultural-history/community-the-race-to-freedom
