@@ -265,11 +265,11 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 
 ### Presentations
 
-These two presentations were created by an FHS volunteer and are presented annually to fourth grade students at Abingdon annually by the same FHS volunteer. The first presentation is about the history of Abingdon, and the second presentation is about the Civil War forts near Abingdon (Fort Reynolds and Battery Garesché).
+These two presentations were created by an FHS volunteer and are presented annually to fourth grade students at Abingdon annually by the same FHS volunteer. The first presentation is about the history of Abingdon, and the second presentation is about slavery and the Civil War forts near Abingdon (Fort Reynolds and Battery Garesché).
 
 {{< button href="https://docs.google.com/presentation/d/1MT5JuHGnYz5sCp7tzYbYIBt1wxDHjHV96hsxQEjDtWQ/edit" >}}View the Abingdon History Presentation{{< /button >}}<br>
 
-{{< button href="https://docs.google.com/presentation/d/1TOBc2zVnzYimM2nHg8M5ivyGylnwiZXbf9niNZKPbWQ/edit" >}}View the Civil War Forts Presentation{{< /button >}}
+{{< button href="https://docs.google.com/presentation/d/1TOBc2zVnzYimM2nHg8M5ivyGylnwiZXbf9niNZKPbWQ/edit" >}}View the Slavery and Civil War Forts Presentation{{< /button >}}
 
 ## Photos
 
