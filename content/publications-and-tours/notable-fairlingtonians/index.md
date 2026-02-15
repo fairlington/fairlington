@@ -40,13 +40,17 @@ Thanks!
 
 **[Brigadier General Gail Reals](https://en.wikipedia.org/wiki/Gail_Reals)** (born 9/1/35) - first woman commander of Quantico and second woman in the USMC to become a brigadier general. General Reals lived in the Meadows in the 80s/90s
 
+**[Al Roker](https://en.wikipedia.org/wiki/Al_Roker)** - presumably lived in Fairlington between 1976 and 1978 while working for WTTG.
+
 **[Tim Rose](https://en.wikipedia.org/wiki/Tim_Rose)** (9/23/40 -- 9/24/02) -- Singer/Songwriter who had a successful music career in Europe.
 
 **Joel Siegel** (7/7/43 - 6/29/07) - writer, professor, producer and Grammy award winner. Film critic for the ABC's *Good Morning America* for over 25 years. Winner of multiple Emmy Awards, Siegel also worked as a radio DJ.
 
 **[Pete Souza](https://en.wikipedia.org/wiki/Pete_Souza)** (Born 12/31/54) - Former chief official White House photographer for Presidents Reagan and Obama and the former director of the White House Photography Office. He was a photographer with *The Chicago Tribun's* DC bureau from 1998 to 2007
 
-**Evelyn Swarthout** (1913 - March 2000)- concert pianist, and former music professor at American University. Ms. Swarthout-Hayes championed the cause of inter-disciplinarity in teaching music at a time when such a practice was regarded radical. She was an active musician, giving recitals at the National Gallery and Phillips Collection in Washington D.C. She also created and hosted, "Music in the Schools," a radio program that featured recorded music, pieces played by Ms. Swarthout-Hayes, and the voices of imaginary characters. In 1997, along with her husband, Ms. Swarthout-Hayes was awarded the Levine School of Music's Paul Hume Award for contributions to Washington D.C.'s cultural history.
+**Evelyn Swarthout** (1913 - March 2000) - concert pianist, and former music professor at American University. Ms. Swarthout-Hayes championed the cause of inter-disciplinarity in teaching music at a time when such a practice was regarded radical. She was an active musician, giving recitals at the National Gallery and Phillips Collection in Washington D.C. She also created and hosted, "Music in the Schools," a radio program that featured recorded music, pieces played by Ms. Swarthout-Hayes, and the voices of imaginary characters. In 1997, along with her husband, Ms. Swarthout-Hayes was awarded the Levine School of Music's Paul Hume Award for contributions to Washington D.C.'s cultural history.
+
+**Adam Tuss** - NBC4 news anchor.
 
 **Joseph Volpe** - (*3577A South Stafford St. Arl. VA)* Legal counsel to US Army General Leslie Grove, the military leader of the famed Manhattan Project during WWII. Mr Volpe also befriended and represented no other than J. Robert Oppenheimer, the lead scientist for the Atomic Bomb project. Declassified FBI documents recounted an episode on September 1, 1953, where J. Edgar Hoover's agents "tailed" Oppenheimer on one of his many visits to Washington to both defend his reputation, but also lobby against nuclear proliferation. The declassified FBI report said that Oppenheimer deviated from his itinerary on that Tuesday to visit his friend and personal lawyer, Joseph Volpe, [at his home] in Fairlington.
 

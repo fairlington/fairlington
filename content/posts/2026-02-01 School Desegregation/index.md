@@ -3,7 +3,6 @@ title: Desegregation of Abingdon and Fairlington Elementary Schools
 summary: Desegregation of schools in Fairlington occurred later than many people believe.
 slug: school desegregation
 date: 2026-02-01T06:00:00-05:00
-draft: false
 ---
 
 Both Fairlington Elementary (built in 1943) and Abingdon Elementary (built in 1950) were segregated schools in their first years. All public schools were required by the state constitution to be segregated. Black students living in South Arlington attended Drew Elementary School.
