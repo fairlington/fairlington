@@ -77,6 +77,7 @@ In the years that followed, Whiting published several ads in the Alexandria Gaze
 {{<fig src="files/1804-08-30.png" caption="From the August 30, 1804 edition of the Alexandria Gazette.">}}
 {{<fig src="files/1817-09-20.png" caption="From the September 20, 1817 edition of the Alexandria Gazette.">}}
 {{<fig src="files/1819-01-14.png" caption="From the January 14, 1819 edition of the Alexandria Gazette.">}}
+{{<fig src="files/1826-12-13.png" caption="From the December 13, 1826 edition of the Daily National Intelligencer.">}}
 {{<fig src="files/1831-09-26.png" caption="From the September 26, 1831 edition of the Phenix Gazette.">}}
 
 Some of these ads ran in multiple successive editions, indicating that efforts to recapture the individuals were not, at least initially, successful. The ad originally published in September 1817 was republished regularly until April 1818. Additionally, note in the 1804 ad the writer's detailed familiarity of scars remaining from physical assaults, including a scald and a whip, that the enslaver or the overseer may have imposed at Morven.
@@ -129,9 +130,9 @@ The will documents, and a list of the enslaved on those documents, are below.[^9
 1. Natt Cook
 1. Sam
 1. Sarah
-1. Jane
-1. Dinah
-1. James
+1. Jane*
+1. Dinah*
+1. James*
 1. Sall
 1. Rose
 1. Polepus
@@ -140,17 +141,19 @@ The will documents, and a list of the enslaved on those documents, are below.[^9
 1. Hannah
 1. George
 1. Dennis
-1. Nan
+1. Nan*
 1. Charles
 1. Sall
-1. Pompey
+1. Pompey*
 1. Cyrus
-1. Judy
-1. Amey
+1. Judy*
+1. Amey*
 1. Smart
-1. Sampson
+1. Sampson*
 1. Polipus
-1. Peter
+1. Peter*
+
+\* - Name is unique to this record
 
 ### Conclusion
 
