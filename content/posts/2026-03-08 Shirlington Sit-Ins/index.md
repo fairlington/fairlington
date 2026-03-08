@@ -2,9 +2,8 @@
 title: Shirlington Lunch Counter Sit-ins
 summary: Sit-ins at Shirlington department store lunch counters helped pave the way for integrated dining in Arlington.
 slug: shirlington sitins
-date: 2026-02-08T06:00:00-05:00
+date: 2026-03-08T06:00:00-05:00
 bookToC: false
-draft: true
 ---
 
 In the 1950s and 1960s, department stores often featured lunch counters to serve simple dishes to hungry shoppers. Though the stores themselves sold goods to individuals of all races, the lunch counters only served White customers.
@@ -13,7 +12,9 @@ In June 1960, sit-ins took place at lunch counters in Arlington as a peaceful pr
 
 The sit-ins in Arlington began in North Arlington on June 9, 1960 at the Peoples Drug Store in Cherrydale, and spread to nearby lunch counters. These sit-ins were tumultuous, with counter-protesters employing violence and intimidation at some of the sites. Protesters declared a pause after June 10 to allow for the business owners to consider the protesters' demands. However, after not receiving a satisfactory reply, they resumed their demonstrations on June 18, this time in South Arlington.
 
-In contrast, the Shirlington sit-ins were peaceful. Several protesters, both White and Black, sat down at lunch counters at Woolworth's and Lansburgh's department stores. A White demonstrator purchased two meals and gave one to her fellow demonstrator, who was Black. Soon afterwards, the lunch counters were closed and the lights turned off, although another Black protester was served food, probably by accident. Protesters remained at the darkened lunch counters for hours.
+{{<figresize o=720x src="files/Shirlington-cropped.png" caption="Campbell Avenue in Shirlington, with Woolworth’s on the left and Landsburgh’s in the middle. From the [Charlie Clark Center for Local History, Arlington Public Library](https://libraryarchives.arlingtonva.us/Detail/objects/9829).">}}
+
+In contrast, the Shirlington sit-ins were peaceful. Several protesters, both White and Black, sat down at lunch counters at Woolworth's and Lansburgh's department stores. A White demonstrator (noted civil rights activist and Arlington native [Joan Trumpauer Mulholland](https://en.wikipedia.org/wiki/Joan_Trumpauer_Mulholland)) purchased two meals and gave one to her fellow demonstrator, who was Black. Soon afterwards, the lunch counters were closed and the lights turned off, although another Black protester was served food, probably by accident. Protesters remained at the darkened lunch counters for hours.
 
 {{<figresize o=720x src="files/1960-06-19.jpg" caption="From the June 19, 1960 edition of the Washington Post.">}}
 
