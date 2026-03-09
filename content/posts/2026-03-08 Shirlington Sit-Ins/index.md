@@ -4,6 +4,7 @@ summary: Sit-ins at Shirlington department store lunch counters helped pave the 
 slug: shirlington sitins
 date: 2026-03-08T06:00:00-05:00
 bookToC: false
+images: ["files/1960-06-19.jpg"]
 ---
 
 In the 1950s and 1960s, department stores often featured lunch counters to serve simple dishes to hungry shoppers. Though the stores themselves sold goods to individuals of all races, the lunch counters only served White customers.
