@@ -231,7 +231,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | 1964-1965 | 4 additional classrooms, a new multipurpose room, and likely reconfiguring the old multipurpose room as a library. |
 | 1970-1971 | 15 additional classrooms(?), media center, gymnasium, conference rooms for reading, music, science, art, an office and additional storage space. And air conditioning for the entire school except the gym. [View the floor plan here.](pdf/floor-plan-1974.pdf)  |
 | 1990-1991 | Added classrooms, a computer lab, and a front office and new front entrance to the east side of the school. [View the floor plan here.](https://www.boarddocs.com/vsba/arlington/Board.nsf/files/9UMFQQ7D9DE7/$file/G-2%20Abingdon%20Concept%20Package.pdf#page=25) |
-| [2016-2017](https://www.apsva.us/design-and-construction/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. [View the floor plan here.](https://www.boarddocs.com/vsba/arlington/Board.nsf/files/A7LUNQ745E3C/$file/F-3%20Action%20-%20Abingdon%20Final%20Design%20Book%20v4.pdf#page=27) |
+| [2016-2017](https://www.apsva.us/design-and-construction/recent-projects/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. [View the floor plan here.](https://www.boarddocs.com/vsba/arlington/Board.nsf/files/A7LUNQ745E3C/$file/F-3%20Action%20-%20Abingdon%20Final%20Design%20Book%20v4.pdf#page=27) |
 
 ### Principals
 
@@ -663,9 +663,22 @@ Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old docume
 {{< imgresize o=360x src="images/film3-8-3.png" alt="A scanned film photo from about 1991." >}}
 {{< imgresize o=360x src="images/film3-8-4.png" alt="A scanned film photo from about 1991." >}}<!--{{< imgresize o=360x src="images/film3-9-1.png" alt="A scanned film photo from about 1991." >}}--><!--{{< imgresize o=360x src="images/film3-9-2.png" alt="A scanned film photo from about 1991." >}}--><!--{{< imgresize o=360x src="images/film3-9-3.png" alt="A scanned film photo from about 1991." >}}-->
 
-### Mid 1990's Classroom
+### October 1994 Classroom
 
-Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these was were undated classroom photos, likely from the mid-1990's.
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were classroom photos from film developed in October 1994.
+
+{{< imgresize o=360x src="images/94-oct-0001.png" alt="A photo from the 1990's." >}}
+{{< imgresize o=360x src="images/94-oct-0002.png" alt="A photo from the 1990's." >}}
+{{< imgresize o=360x src="images/94-oct-0003.png" alt="A photo from the 1990's." >}}
+{{< imgresize o=360x src="images/94-oct-0004.png" alt="A photo from the 1990's." >}}
+{{< imgresize o=360x src="images/94-oct-0005.png" alt="A photo from the 1990's." >}}<!--{{< imgresize o=360x src="images/94-oct-0006.png" alt="A photo from the 1990's." >}}-->
+{{< imgresize o=360x src="images/94-oct-0007.png" alt="A photo from the 1990's." >}}
+{{< imgresize o=360x src="images/94-oct-0008.png" alt="A photo from the 1990's." >}}
+{{< imgresize o=360x src="images/94-oct-0009.png" alt="A photo from the 1990's." >}}<!--{{< imgresize o=360x src="images/94-oct-0010.png" alt="A photo from the 1990's." >}}{{< imgresize o=360x src="images/94-oct-0011.png" alt="A photo from the 1990's." >}}{{< imgresize o=360x src="images/94-oct-0012.png" alt="A photo from the 1990's." >}}-->
+
+### February 1995 Classroom
+
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these was were undated classroom photos, likely from February 1995 based on the images.
 
 {{< imgresize o=360x src="images/90s-kodak-0001.png" alt="A photo from the 1990's." >}}
 {{< imgresize o=360x src="images/90s-kodak-0002.png" alt="A photo from the 1990's." >}}
@@ -690,19 +703,6 @@ Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old docume
 {{< imgresize o=360x src="images/90s-kodak-0022.png" alt="A photo from the 1990's." >}}
 {{< imgresize o=360x src="images/90s-kodak-0023.png" alt="A photo from the 1990's." >}}
 {{< imgresize o=360x src="images/90s-kodak-0019.png" alt="A photo from the 1990's." >}}
-
-### October 1994 Classroom
-
-Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were classroom photos from film developed in October 1994.
-
-{{< imgresize o=360x src="images/94-oct-0001.png" alt="A photo from the 1990's." >}}
-{{< imgresize o=360x src="images/94-oct-0002.png" alt="A photo from the 1990's." >}}
-{{< imgresize o=360x src="images/94-oct-0003.png" alt="A photo from the 1990's." >}}
-{{< imgresize o=360x src="images/94-oct-0004.png" alt="A photo from the 1990's." >}}
-{{< imgresize o=360x src="images/94-oct-0005.png" alt="A photo from the 1990's." >}}<!--{{< imgresize o=360x src="images/94-oct-0006.png" alt="A photo from the 1990's." >}}-->
-{{< imgresize o=360x src="images/94-oct-0007.png" alt="A photo from the 1990's." >}}
-{{< imgresize o=360x src="images/94-oct-0008.png" alt="A photo from the 1990's." >}}
-{{< imgresize o=360x src="images/94-oct-0009.png" alt="A photo from the 1990's." >}}<!--{{< imgresize o=360x src="images/94-oct-0010.png" alt="A photo from the 1990's." >}}{{< imgresize o=360x src="images/94-oct-0011.png" alt="A photo from the 1990's." >}}{{< imgresize o=360x src="images/94-oct-0012.png" alt="A photo from the 1990's." >}}-->
 
 ### September 1995 Outdoor Lab and Field Trip
 

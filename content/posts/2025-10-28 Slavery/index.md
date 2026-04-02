@@ -11,7 +11,7 @@ categories: ["Articles"]
 
 Slavery was widespread in antebellum Northern Virginia. In Arlington and Alexandria, which were then both part of Alexandria, there were 1,386 enslaved people documented by the 1860 census.[^1] Alexandria was home to one of the largest slave-trading operations in the country.[^2]
 
-The area we now know as Fairlington was no exception. [This widely-used interpretative historical map by Beth Mitchell](files/fairfax1760.jpg)[^3] shows that John Carlyle owned this land, and that based on court records there were estimated to be 27 enslaved persons working there. The farm there was called Torthorwald, but would later be renamed Morven.[^4] The residence at Morven was located at what is now South 31st and Columbus Streets, approximately where the building for 4820-4850 31st Street South presently stands, and/or on the area in front of it.[^loc] A cropped section of the map is below, with Torthorwald/Morven in the center, bounded by Four Mile Run to its north.
+The area we now know as Fairlington was no exception. [This widely-used interpretative historical map by Beth Mitchell](files/fairfax1760.jpg)[^3] shows that John Carlyle owned this land, and that based on court records there were estimated to be 27 enslaved persons working there in 1760. The farm there was called Torthorwald, but would later be renamed Morven.[^4] The residence at Morven was located at what is now South 31st and Columbus Streets, approximately where the building for 4820-4850 31st Street South presently stands, and/or on the area in front of it.[^loc] A cropped section of the map is below, with Torthorwald/Morven in the center, bounded by Four Mile Run to its north.
 
 {{<imgresize o=992x src="files/fairfax-cropped.jpg" alt="">}}
 

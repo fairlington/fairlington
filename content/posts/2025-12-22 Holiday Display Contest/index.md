@@ -2,7 +2,7 @@
 title: 🎄 Fairlington Holiday Lights Contest 🎄
 summary: The Fairlington Historical Society is excited to announce the results of our Holiday Display Contest.
 slug: holiday display contest
-date: 2026-01-04T07:00:00-04:00
+date: 2026-01-04T07:00:00-05:00
 categories: ["Events"]
 ---
 

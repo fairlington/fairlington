@@ -4,6 +4,7 @@ summary: Fairlington resident Amina Luqman-Dawson won a Newbery Award for her de
 slug: Luqman-Dawson Profile
 date: 2026-02-15T06:00:00-05:00
 author: "Phil Snelling"
+categories: ["Articles"]
 ---
 
 *By Phil Snelling*
