@@ -14,4 +14,4 @@ The event will take place at 1 p.m. at the Fairlington Villages Community Center
 
 If you wish to purchase a stone to memorialize an enslaved person who lived in present day Fairlington, you can make a donation to [Arlington Historical Society](https://arlhist.org/support/donate/) and email them at ahsedlink@gmail.com to let them know your donation was for Stumbling Stones in Fairlington.
 
-{{< button href="[/tags/75th-anniversary-lookback/](https://www.eventbrite.com/e/fairlington-stumbling-stones-unveiling-tickets-1985192765000)" >}}RSVP through Eventbrite{{< /button >}}
+{{< button href="https://www.eventbrite.com/e/fairlington-stumbling-stones-unveiling-tickets-1985192765000" >}}RSVP through Eventbrite{{< /button >}}
