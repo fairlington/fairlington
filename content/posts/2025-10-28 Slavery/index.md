@@ -113,7 +113,7 @@ Following John Carlyle's death, some enslaved persons were auctioned off rather 
 1. Sarah
 1. Sam
 
-It is not known how many of these individuals were enslaved at Tortherwald/Morven rather than Carlyle's other properties. Some of these individuals were likely the same as those who were listed on the 1780 inventory.
+It is not known how many of these individuals were enslaved at Torthorwald/Morven rather than Carlyle's other properties. Some of these individuals were likely the same as those who were listed on the 1780 inventory.
 
 ### 1816 Will
 
