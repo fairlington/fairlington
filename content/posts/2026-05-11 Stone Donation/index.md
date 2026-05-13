@@ -9,7 +9,7 @@ categories: ["Fundraising"]
 
 We would like to dedicate Stumbling Stones to memoralize [all 58 people](/2025/10/slavery/) who are currently known to have been enslaved in Fairlington.
 
-If you wish to purchase a Stumbling Stone, you can make a donation to Arlington Historical Society and email them at ahsedlink@gmail.com to let them know your donation was for Stumbling Stones in Fairlington.
+If you wish to purchase a Stumbling Stone, you can make a donation to Arlington Historical Society and email them at ahsedlink@gmail.com to let them know your donation was for Stumbling Stones in Fairlington. Each Stumbling Stone costs $300, but we are grateful for donations of any amount.
 
 {{< button href="https://arlhist.org/support/donate/" >}}Purchase a Stone{{< /button >}}
 <br><br>
