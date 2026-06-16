@@ -131,7 +131,7 @@ The will documents, and a list of the enslaved on those documents, are below.[^9
 1. Sam
 1. Sarah
 1. Jane*
-1. Dinah*
+1. Sinah*
 1. James*
 1. Sall
 1. Rose
@@ -143,15 +143,24 @@ The will documents, and a list of the enslaved on those documents, are below.[^9
 1. Dennis
 1. Nan*
 1. Charles
+1. Bett*
+1. Sam
 1. Sall
+1. Nan*
+1. Amey*
+1. Peter*
 1. Pompey*
 1. Cyrus
 1. Judy*
-1. Amey*
+1. Cyrus*
+1. Sabina*
+1. George
+1. Mary*
+1. Milly
+1. Daniel
 1. Smart
 1. Sampson*
 1. Polipus
-1. Peter*
 
 \* - Name is unique to this record
 
