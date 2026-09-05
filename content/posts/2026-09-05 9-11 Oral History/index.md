@@ -4,6 +4,7 @@ summary: Listen to—or read—the stories of Fairlingtonians from September 11,
 slug: 9-11 oral histories
 date: 2026-09-05T08:00:00-04:00
 categories: ["Oral Histories"]
+images: ["files/9-11-pentagon.jpg"]
 ---
 
 In 2026, the Fairlington Historical Society launched the 9/11 Oral History Project in remembrance of the 25th anniversary of the September 11th attacks, to document the experiences of people who were living in Fairlington at the time. We believe it is important to record these stories so current and future generations can learn how 9/11 unfolded locally through the eyes of everyday people, and to hear reflections looking back on that terrible day 25 years later.
