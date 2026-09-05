@@ -2,6 +2,10 @@
 <!-- -->
 {{ end }}
 
+{{ define "header" }}
+{{ partial "docs/brand" . }}
+{{ end }}
+
 {{ define "toc" }}
   {{ partial "docs/brand" . }}
   <nav id="TableOfContents">
