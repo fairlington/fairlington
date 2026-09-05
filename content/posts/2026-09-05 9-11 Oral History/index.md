@@ -15,52 +15,52 @@ With support from the Arlington Historical Society, we trained five FHS members 
 
 {{< button href="files/pdf/carol-dabbs.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/carol-dabbs.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/carol-dabbs.opus" type="audio/ogg"></audio>
 
 ## Betsy Faga
 
 {{< button href="files/pdf/betsy-faga.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/betsy-faga.m4a" type="audio/mpeg"></audio>
+<audio loading="lazy" controls><source src="files/audio/betsy-faga.m4a" type="audio/mpeg"></audio>
 
 ## Paul Ferguson
 
 {{< button href="files/pdf/paul-ferguson.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/paul-ferguson.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/paul-ferguson.opus" type="audio/ogg"></audio>
 
 ## Libby Garvey
 
 {{< button href="files/pdf/libby-garvey.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/libby-garvey.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/libby-garvey.opus" type="audio/ogg"></audio>
 
 ## Stephen Gregory Smith and Matt Connor
 
 {{< button href="files/pdf/stephen-gregory-smith-and-matt-connor.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/stephen-gregory-smith-and-matt-connor.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/stephen-gregory-smith-and-matt-connor.opus" type="audio/ogg"></audio>
 
 ## Susan Kernan
 
 {{< button href="files/pdf/susan-kernan.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/susan-kernan.m4a" type="audio/mpeg"></audio>
+<audio loading="lazy" controls><source src="files/audio/susan-kernan.m4a" type="audio/mpeg"></audio>
 
 ## Barbara Kirkland
 
 {{< button href="files/pdf/barbara-kirkland.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/barbara-kirkland.m4a" type="audio/mpeg"></audio>
+<audio loading="lazy" controls><source src="files/audio/barbara-kirkland.m4a" type="audio/mpeg"></audio>
 
 ## John Sinks
 
 {{< button href="files/pdf/john-sinks.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/john-sinks.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/john-sinks.opus" type="audio/ogg"></audio>
 
 ## Andrea Solarz
 
 {{< button href="files/pdf/andrea-solarz.pdf" >}}View Transcript{{< /button >}}
 
-<audio controls><source src="files/audio/andrea-solarz.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/andrea-solarz.opus" type="audio/ogg"></audio>
