@@ -35,11 +35,11 @@ With support from the Arlington Historical Society, we trained five FHS members 
 
 <audio loading="lazy" controls><source src="files/audio/libby-garvey.opus" type="audio/ogg"></audio>
 
-## Stephen Gregory Smith and Matt Connor
+## Stephen Gregory Smith and Matt Conner
 
-{{< button href="files/pdf/stephen-gregory-smith-and-matt-connor.pdf" >}}View Transcript{{< /button >}}
+{{< button href="files/pdf/stephen-gregory-smith-and-matt-conner.pdf" >}}View Transcript{{< /button >}}
 
-<audio loading="lazy" controls><source src="files/audio/stephen-gregory-smith-and-matt-connor.opus" type="audio/ogg"></audio>
+<audio loading="lazy" controls><source src="files/audio/stephen-gregory-smith-and-matt-conner.opus" type="audio/ogg"></audio>
 
 ## Susan Kernan
 
