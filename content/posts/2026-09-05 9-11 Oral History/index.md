@@ -21,7 +21,7 @@ With support from the Arlington Historical Society, we trained five FHS members 
 
 {{< button href="files/pdf/betsy-faga.pdf" >}}View Transcript{{< /button >}}
 
-<audio loading="lazy" controls><source src="files/audio/betsy-faga.m4a" type="audio/mpeg"></audio>
+<audio loading="lazy" controls><source src="files/audio/betsy-faga.m4a" type="audio/mp4"></audio>
 
 ## Paul Ferguson
 
@@ -45,13 +45,13 @@ With support from the Arlington Historical Society, we trained five FHS members 
 
 {{< button href="files/pdf/susan-kernan.pdf" >}}View Transcript{{< /button >}}
 
-<audio loading="lazy" controls><source src="files/audio/susan-kernan.m4a" type="audio/mpeg"></audio>
+<audio loading="lazy" controls><source src="files/audio/susan-kernan.m4a" type="audio/mp4"></audio>
 
 ## Barbara Kirkland
 
 {{< button href="files/pdf/barbara-kirkland.pdf" >}}View Transcript{{< /button >}}
 
-<audio loading="lazy" controls><source src="files/audio/barbara-kirkland.m4a" type="audio/mpeg"></audio>
+<audio loading="lazy" controls><source src="files/audio/barbara-kirkland.m4a" type="audio/mp4"></audio>
 
 ## John Sinks
 
