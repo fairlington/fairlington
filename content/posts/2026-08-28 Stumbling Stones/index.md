@@ -11,3 +11,7 @@ On Sunday, September 27, FHS, the Fairlington Civic Association, the Arlington H
 The event will take place at noon at the at the corner of S 34th & S Utah. Community members are invited to attend. Following the dedication ceremony, we will have a quick walking tour to reflect on some of the stories and the life experiences of those that were enslaved here in the late 18th century.
 
 Over 60 individuals have now been identified as having been enslaved on a plantation that is now modern-day Fairlington. If you wish to purchase an additional stone to memorialize an enslaved person who lived in present day Fairlington, you can make a donation to [Arlington Historical Society](https://arlhist.org/support/donate/) and email them at ahsedlink@gmail.com to let them know your donation was for Stumbling Stones in Fairlington.
+
+A map of the Stumbling Stones in Fairlington can be found [at this link](https://umap.openstreetmap.de/en/map/stumbling-stone-locations_153625), or below.
+
+{{<fig src="files/Stumbling Stone Map" alt="" >}}
