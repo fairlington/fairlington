@@ -1,11 +1,12 @@
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $oriented := $original.Filter images.AutoOrient }}
 
 <figure class="{{ with .Get "class" }}{{ . }}{{ end }}">
     <img
-        src="{{ $original.RelPermalink }}"
-        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-        width="{{ $original.Width -}}"
-        height="{{ $original.Height -}}"
+        src="{{ $oriented.RelPermalink }}"
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
+        width="{{ $oriented.Width -}}"
+        height="{{ $oriented.Height -}}"
         loading="lazy"
     />
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}

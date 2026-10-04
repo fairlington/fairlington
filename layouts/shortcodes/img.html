@@ -1,10 +1,11 @@
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $oriented := $original.Filter images.AutoOrient }}
 
 <img
-    src="{{ $original.RelPermalink }}"
-    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-    width="{{ $original.Width -}}"
-    height="{{ $original.Height -}}"
+    src="{{ $oriented.RelPermalink }}"
+    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
+    width="{{ $oriented.Width -}}"
+    height="{{ $oriented.Height -}}"
     loading="lazy"
     class="{{ with .Get "class" }}{{ . }}{{ end }}"
 />

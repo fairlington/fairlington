@@ -1,12 +1,13 @@
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $oriented := $original.Filter images.AutoOrient }}
 {{ $options := (.Get "o") }}
-{{ $small := $original.Fit $options }}
+{{ $small := $oriented.Fit $options }}
 
 <figure class="{{ with .Get "class" }}{{ . }}{{ end }}">
-    <a href="{{ $original.RelPermalink }}">
+    <a href="{{ $oriented.RelPermalink }}">
         <img
             src="{{ $small.RelPermalink }}"
-            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
             width="{{ $small.Width -}}"
             height="{{ $small.Height -}}"
             loading="lazy"

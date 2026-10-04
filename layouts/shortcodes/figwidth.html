@@ -1,16 +1,17 @@
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $oriented := $original.Filter images.AutoOrient }}
 {{ $semiwidth := (.Get "w") }}
 {{ $newwidth := (float $semiwidth) }}
-{{ $oldwidth := (float $original.Width) }}
-{{ $oldheight := (float $original.Height) }}
+{{ $oldwidth := (float $oriented.Width) }}
+{{ $oldheight := (float $oriented.Height) }}
 {{ $ratio := (div $oldheight $oldwidth) }}
 {{ $newheight := (mul $ratio $newwidth) }}
 
 <figure class="{{ with .Get "class" }}{{ . }}{{ end }}">
-    <a href="{{ $original.RelPermalink }}">
+    <a href="{{ $oriented.RelPermalink }}">
         <img
-            src="{{ $original.RelPermalink }}"
-            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+            src="{{ $oriented.RelPermalink }}"
+            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
             width="{{ $newwidth -}}"
             height="{{ $newheight -}}"
             loading="lazy"

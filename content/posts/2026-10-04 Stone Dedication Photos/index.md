@@ -5,6 +5,7 @@ slug: stumbling stone photos
 date: 2026-10-04T05:00:00-04:00
 images: ["files/20260927_121858.jpg"]
 categories: ["Photos"]
+booktoc: false
 ---
 
 The photos below are from the ceremony to dedicate Stumbling Stones for the enslaved in Fairlington held on September 27, 2026. Thanks to Sharon Burd, Guy Land, and Gavin Hilgemeier for taking photos.
@@ -15,8 +16,8 @@ The photos below are from the ceremony to dedicate Stumbling Stones for the ensl
 {{< imgresize o=492x src="files/PXL_20260927_160308142.jpg" alt="" >}}
 {{< imgresize o=492x src="files/PXL_20260927_160404853.jpg" alt="" >}}
 {{< imgresize o=492x src="files/PXL_20260927_161030250.jpg" alt="" >}}
-{{< imgresize o=492x src="files/PXL_20260927_161627561.jpg" alt="" >}}
-{{< imgresize o=492x src="files/PXL_20260927_161628605.jpg" alt="" >}}
+{{< imgresize o=492x src="files/20260927_121624.jpg" alt="" >}}
+{{< imgresize o=492x src="files/20260927_121627.jpg" alt="" >}}
 {{< imgresize o=492x src="files/20260927_121858.jpg" alt="" >}}
 {{< imgresize o=492x src="files/PXL_20260927_162056996.jpg" alt="" >}}
 {{< imgresize o=492x src="files/PXL_20260927_162142122.jpg" alt="" >}}

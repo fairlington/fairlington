@@ -5,6 +5,7 @@ slug: stumbling stone photos
 date: 2026-05-10T05:00:00-04:00
 images: ["files/PXL_20260426_174033374.jpg"]
 categories: ["Photos"]
+booktoc: false
 ---
 
 The photos below are from the ceremony to dedicate Stumbling Stones for the enslaved in Fairlington held on April 26, 2026.

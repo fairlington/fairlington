@@ -5,6 +5,7 @@ slug: woodrow photos
 date: 2024-11-17T06:00:00-05:00
 images: ["files/17.png"]
 categories: ["Photos"]
+booktoc: false
 ---
 
 Photos from someone who grew up at 3070 South Woodrow Street. Most photos are taken on and around South Woodrow Street.

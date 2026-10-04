@@ -5,6 +5,7 @@ slug: 1977 photos
 date: 2024-05-31T05:00:00-04:00
 images: ["files/1977-1.jpg"]
 categories: ["Photos"]
+booktoc: false
 ---
 
 An unnamed neighbor shared these photos of the front of Abingdon and the Fairlington Villages tennis courts, at around the time the Fairlington units were being renovated into condos.
