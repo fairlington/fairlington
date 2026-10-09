@@ -1,6 +1,6 @@
 ---
-title: Publications and Tours
-summary: Publications and Tours
+title: Highlights
+summary: Highlights
 weight: 10
 build:
   render: never

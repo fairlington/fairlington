@@ -2,7 +2,7 @@
 title: Walking Tour
 summary: Walking Tour
 linktitle: Walking Tour
-weight: 30
+weight: 70
 ---
 
 # Walking Tour

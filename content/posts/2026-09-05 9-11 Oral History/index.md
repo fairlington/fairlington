@@ -5,6 +5,9 @@ slug: 9-11 oral histories
 date: 2026-09-05T08:00:00-04:00
 categories: ["Oral Histories"]
 images: ["files/9-11-pentagon.jpg"]
+menu:
+  home:
+    weight: 70
 ---
 
 In 2026, the Fairlington Historical Society launched the 9/11 Oral History Project in remembrance of the 25th anniversary of the September 11th attacks, to document the experiences of people who were living in Fairlington at the time. We believe it is important to record these stories so current and future generations can learn how 9/11 unfolded locally through the eyes of everyday people, and to hear reflections looking back on that terrible day 25 years later.
@@ -52,6 +55,12 @@ With support from the Arlington Historical Society, we trained five FHS members 
 {{< button href="files/pdf/barbara-kirkland.pdf" >}}View Transcript{{< /button >}}
 
 <audio loading="lazy" controls><source src="files/audio/barbara-kirkland.m4a" type="audio/mp4"></audio>
+
+## Laura Parker and Kerry McKenney
+
+{{< button href="files/pdf/laura-parker-and-kerry-mckenney.pdf" >}}View Transcript{{< /button >}}
+
+<audio loading="lazy" controls><source src="files/audio/laura-parker-and-kerry-mckenney.opus" type="audio/ogg"></audio>
 
 ## John Sinks
 

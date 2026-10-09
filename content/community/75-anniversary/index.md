@@ -2,7 +2,7 @@
 title: 75th Anniversary
 summary: 75th Anniversary of Fairlington
 linktitle: 75th Anniversary
-weight: 10
+weight: 20
 ---
 
 # 75th Anniversary

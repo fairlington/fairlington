@@ -1,5 +1,4 @@
 baseURL: https://www.fairlingtonhistoricalsociety.org
-languageCode: en-us
 title: Fairlington Historical Society
 theme: 
 - hugo-book
@@ -31,9 +30,7 @@ permalinks:
   posts: /:year/:month/:slug/
 
 copyright: Fairlington Historical Society
-defaultContentLanguage: en
 languages:
   en:
-    weight: 1
-    languageName: English
-    title: Fairlington Historical Society
+    label: "English"
+    locale: "en-us"

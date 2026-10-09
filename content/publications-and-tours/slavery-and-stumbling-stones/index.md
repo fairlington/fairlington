@@ -1,11 +1,25 @@
 ---
-title: Slavery at Morven
+title: "Slavery & Stumbling Stones"
+slug: slavery and stumbling stones
+weight: 70
+aliases: ['/2025/10/slavery/']
 summary: At Morven, the farm on the land that became Fairlington, slavery was widespread for generations.
-slug: slavery
 date: 2025-10-28T05:00:00-04:00
 images: ["files/1811-12-09.png"]
 categories: ["Articles"]
 ---
+
+# Slavery and Stumbling Stones
+
+### Stumbling Stones
+
+Over 60 individuals have now been identified as having been enslaved on a plantation that is now modern-day Fairlington. In 2026, the Fairlington Historical Society paid for 30 Stumbling Stones to be installed throughout Fairlington to memorialize enslaved individuals. Most of these individuals were identified through our own research efforts, which you can read about below. Seven additional memorials were paid for by Fairlington residents and by the Fairlington Citizens Association. This was part of a countywide initiative led by the Arlington Historical Society and the Black Heritage Museum of Arlington; more information can be found here: https://enslavedarl.org.
+
+If you wish to purchase an additional stone to memorialize an enslaved person who lived in present day Fairlington, you can make a donation to [Arlington Historical Society](https://arlhist.org/support/donate/) and email them at ahsedlink@gmail.com to let them know your donation was for Stumbling Stones in Fairlington.
+
+A map of the Stumbling Stones in Fairlington can be found [at this link](https://umap.openstreetmap.de/en/map/stumbling-stone-locations_153625), or below.
+
+{{<fig src="files/Stumbling Stone Map" alt="" >}}
 
 ### Introduction
 
