@@ -1,17 +1,16 @@
 ---
-title: Historical Documents Newly Available Online
-summary: Newsletters, flyers, and other documents from Fairlington's first days are viewable online for the first time.
-slug: documents
+title: Document Library
+summary: Newsletters, flyers, and other documents from Fairlington's history' are viewable online.
+aliases: ['/2024/06/documents']
 date: 2024-06-30T05:00:00-04:00
 images: ["files/images/key-dept.jpg"]
 categories: ["Documents"]
+weight: 80
 ---
 
-The Fairlington Historical Society has scanned several documents that help tell the story of Fairlington's first days. These documents have been preserved by the Arlington Public Library in their archives, and are available for review upon request.
+# Document Library
 
-The documents are made available in the library with little or no context. We've tried to provide as much context as possible.
-
-The documents below are a small portion of what the Fairlington-related documents that the library maintains. FHS endeavors to continue making additional documents available electronically.
+The Fairlington Historical Society has scanned several documents that help tell the story of Fairlington's history. Many of these documents have been preserved by the Arlington Public Library in their archives. They are a small portion of what the Fairlington-related documents that the library maintains. FHS endeavors to continue making additional documents available electronically.
 
 ## Newsletters
 

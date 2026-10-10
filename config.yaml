@@ -26,7 +26,7 @@ permalinks:
   docs: /:sections[1:]/:contentbasename/
   about: /:sections[1:]/:contentbasename/
   community: /:sections[1:]/:contentbasename/
-  publications-and-tours: /:sections[1:]/:contentbasename/
+  highlights: /:sections[1:]/:contentbasename/
   posts: /:year/:month/:slug/
 
 copyright: Fairlington Historical Society

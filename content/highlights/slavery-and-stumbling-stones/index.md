@@ -1,6 +1,5 @@
 ---
 title: "Slavery & Stumbling Stones"
-slug: slavery and stumbling stones
 weight: 70
 aliases: ['/2025/10/slavery/']
 summary: At Morven, the farm on the land that became Fairlington, slavery was widespread for generations.

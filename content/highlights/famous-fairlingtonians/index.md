@@ -1,7 +1,6 @@
 ---
 title: Famous Fairlingtonians
 summary: We are sharing a list of notable Fairlingtonians that we will continue to update.
-slug: famous fairlingtonians
 weight: 30
 aliases: ['/2025/08/notable-fairlingtonians/']
 ---
