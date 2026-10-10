@@ -12,6 +12,13 @@ weight: 80
 
 The Fairlington Historical Society has scanned several documents that help tell the story of Fairlington's history. Many of these documents have been preserved by the Arlington Public Library in their archives. They are a small portion of what the Fairlington-related documents that the library maintains. FHS endeavors to continue making additional documents available electronically.
 
+## Histories
+
+| Date | Description | Link |
+| ---- | ----------- | ---- |
+| 1953 | A history of Fairlington created for its 10th anniversary. | [Link](files/pdf/fairlington-10th-anniversary.pdf) |
+| 1983 | A history of Fairlington created for its 40th anniversary. Unfortunately, there appears to be at least one page missing covering 1942-1947. | [Link](files/pdf/fairlington-40th-anniversary.pdf) |
+
 ## Newsletters
 
 | Date | Description | Link |
@@ -57,7 +64,9 @@ The Fairlington Historical Society has scanned several documents that help tell 
 | Date | Description | Link |
 | ---- | ----------- | ---- |
 | 1940's | Promotional material for the Fairlington Association, a forerunner of today's Fairlington Citizens' Association. | [Link](files/pdf/fairlington-association-brochure.pdf) |
-| 1970's | Floor plans and price sheets for Fairlington units during the transition to condominiums. | [Link](files/pdf/promotional-condo.pdf) |
+| 1970's | Floor plans and price sheets for Fairlington units during the transition to condominiums, provided to FHS by Arlington Library's Center for Local History. | [Link](files/pdf/promotional-condo.pdf) |
+| 1970's | Additional promotional material for condominium sales, provided to FHS by Fairlington residents. | [Link](files/pdf/promotional-condo2.pdf) |
+| 1970's | Maps of Fairlington that were given to prospective condominium buyers. | [Link](files/pdf/condo-map.pdf) |
 | 1976 | A history of Fairlington written for America's bicentennial. | [Link](files/pdf/history-narrative-bicentennial.pdf) |
 
 ## Other
