@@ -1,0 +1,40 @@
+/* You can add custom styles here. */
+
+.imageright {
+    float: right;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+.imageleft {
+    float: left;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+.imagecenter {
+    display: block;
+    margin: 0 auto;
+}
+
+figure {
+    text-align: center;
+}
+
+figure img {
+    margin: auto;
+    display: block;
+}
+
+figure figcaption {
+    margin-top: var(--padding-1, 1rem) !important; /* Replace with your desired spacing or theme variable */
+}
+
+figure figcaption p {
+    font-size: 0.875em;
+    /* color: var(--gray-700); */
+}
+
+:root {
+  --content-max-width: 100%;
+}

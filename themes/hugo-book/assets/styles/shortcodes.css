@@ -2,8 +2,8 @@
 
   /* {{< tabs >}} */
   .book-tabs {
-    margin-top: var(--space-16);
-    margin-bottom: var(--space-16);
+    margin: var(--space-16) 0;
+    padding: 0;
 
     border: var(--space-1) solid var(--gray-200);
     border-radius: var(--border-radius);
@@ -85,8 +85,10 @@
     &.success { --accent-color: var(--color-accent-success); }
     &.danger { --accent-color: var(--color-accent-danger); }
 
-    border-color: var(--accent-color);
     background-color: color-mix(in srgb, var(--accent-color) 10%, transparent);
+    &::before {
+      background-color: var(--accent-color);
+    }
   }
 
   /* {{< badge >}} */
@@ -169,8 +171,8 @@
   /* {{< image >}} */
   .book-image {
     input + img {
+      border: var(--space-1) solid var(--gray-200);
       cursor: zoom-in;
-      transition: transform 0.2s ease-in-out;
     }
 
     input:checked + img {

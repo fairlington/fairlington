@@ -1,8 +1,6 @@
 # Mermaid
 
-Render diagrams and charts with [Mermaid](https://mermaid.js.org/). The library is loaded automatically on first use.
-
-Diagram theme follows the site theme through the `--mermaid-theme` CSS variable. Override it in `assets/styles/custom.css` to use another [Mermaid theme](https://mermaid.js.org/config/theming.html).
+Render diagrams and charts with [Mermaid](https://mermaid.js.org/). The library is loaded automatically on first use. By default diagrams follows the site theme colors.
 
 > [!TIP]
 > Override Mermaid initialization by creating `assets/mermaid.json` in your project. A `theme` set there takes precedence over the CSS variable.

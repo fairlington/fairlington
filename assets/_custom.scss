@@ -31,3 +31,13 @@ figure {
 //        color: var(--gray-700);
     }
 }
+
+:root {
+  --content-max-width: 100%; /* Or use 'none', or a larger pixel/rem value like '1400px' */
+}
+
+.book-page, 
+.book-page main, 
+.markdown {
+  max-width: none !important;
+}
